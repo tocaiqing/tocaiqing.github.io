@@ -40,11 +40,12 @@
 2008/09-2012/07，齐鲁工业大学，电气工程与自动化学院，学士   
 
 ## 学术兼职
-+ 国家自然科学基金通讯评审专家（2015年-今）  
++ 国家自然科学基金通讯评审专家
 + 中国计算机学会(CCF)会员
-+ 中国人工智能学会(CAAI)会员   
-+ 程序委员会委员（PC Member）：WSDM2023, WWW2023, AAAI2023, IJCAI2022, WWW2022, AAAI2022, KDD2022, SDM2022, KDD2021, AAAI2021, SDM2021, KDD2020, AAAI2020, SDM2020, KDD2019, CIKM2019, SDM2019, IPCCC2018, UrbComp2018, DIT2018, InTI2018, UrbComp2016   
-+ 期刊审稿人：IEEE Transactions on Cybernetics, IEEE Transactions on Mobile Computing, ACM Transactions on Intelligent Systems and Technology, IEEE Transactions on Big Data, Knowledge-based Systems, IEEE Access.   
++ 中国人工智能学会(CAAI)会员  
++ CCF YOCSEF青岛委员
++ 会议审稿人：AAAI2023, CVPR2022, ECCV2022, ICCV2021  
++ 期刊审稿人：IEEE Transactions on Image Processing, IEEE Transactions on Cybernetics, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Industrial Electronics, Pattern Recognition, Applied Mathematical Modelling.   
 
 ## 奖励荣誉
 2022年10月获山东省人工智能自然科学奖二等奖（第一位次）    
