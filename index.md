@@ -41,10 +41,8 @@
 
 ## 学术兼职
 + 国家自然科学基金通讯评审专家（2015年-今）  
-+ 山东省人工智能学会常务理事
-+ 中国人工智能学会智能服务专委会委员
-+ 中国计算机学会服务计算专委会执行委员
-+ 中国计算机学会人工智能与模式识别专委会通讯委员   
++ 中国计算机学会(CCF)会员
++ 中国人工智能学会(CAAI)会员   
 + 程序委员会委员（PC Member）：WSDM2023, WWW2023, AAAI2023, IJCAI2022, WWW2022, AAAI2022, KDD2022, SDM2022, KDD2021, AAAI2021, SDM2021, KDD2020, AAAI2020, SDM2020, KDD2019, CIKM2019, SDM2019, IPCCC2018, UrbComp2018, DIT2018, InTI2018, UrbComp2016   
 + 期刊审稿人：IEEE Transactions on Cybernetics, IEEE Transactions on Mobile Computing, ACM Transactions on Intelligent Systems and Technology, IEEE Transactions on Big Data, Knowledge-based Systems, IEEE Access.   
 
