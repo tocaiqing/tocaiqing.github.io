@@ -45,21 +45,14 @@
 + 中国人工智能学会(CAAI)会员  
 + CCF YOCSEF青岛委员
 + 会议审稿人：AAAI2023, CVPR2022, ECCV2022, ICCV2021  
-+ 期刊审稿人：IEEE Transactions on Image Processing, IEEE Transactions on Cybernetics, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Industrial Electronics, Pattern Recognition, Applied Mathematical Modelling.   
-
-## 奖励荣誉
-2022年10月获山东省人工智能自然科学奖二等奖（第一位次）    
-2021年12月获山东省自然科学奖三等奖（第三位次）   
-2019年12月获山东省科学技术进步奖二等奖（第六位次）     
-2017年10月获山东省高等学校科学技术奖三等奖（第一位次）     
-2014年01月获北京科技大学优秀博士学位论文奖    
-2012年12月获教育部博士研究生国家奖学金   
++ 期刊审稿人：IEEE Transactions on Image Processing, IEEE Transactions on Cybernetics, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Industrial Electronics, Pattern Recognition, Applied Mathematical Modelling.    
 
 ## 科研项目
-[2022-2025] **国家自然科学基金面上项目**, 62176243, “面向大规模复杂时空数据的表征学习方法及其应用研究”,73.9万, **主持人** <span style="color:red;">**New!**</span>    
-[2018-2021] **国家自然科学基金面上项目**, 61773331, “面向轨迹大数据的语义标注与语义模式挖掘算法研究”,76.8万, **主持人**       
-[2017-2019] 山东省高等学校科技计划项目, J17KA091, “支持公共位置服务的交通大数据实时挖掘与分析关键技术研究”, 3.5万, **主持人**  
-[2015-2017] 国家自然科学基金青年基金项目, 61403328, “时空大数据流分布式异常事件检测技术研究”, 25万, **主持人**  
+[2022-2025] **中国海洋大学青年英才工程科研启动经费**, “面向磁共振图像处理的关键技术研究”,30万, **主持人** <span style="color:red;">**New!**</span>
+[2022-2024] **国家自然科学基金青年项目**, “基于边界注意力水平集的医学图像分割关键技术研究”,30万, **主持人** <span style="color:red;">**New!**</span>    
+[2021-2023] **山东省自然科学基金青年项目**,“基于深度学习与水平集的左心室磁共振图像分割算法研究”,14万, **主持人**       
+[2021-2022] 中国博士后科学基金, “基于边界注意力水平集的脑磁共振图像分割关键技术研究”, 8万, **主持人**  
+[2015-2017] 研究生创新创意种子基金(重点项目), 2万, **主持人**  
 [2014-2016] 吉林大学符号计算与知识工程教育部重点实验室开放基金, 93K172014K13, “分布式异常检测技术研究”, 2万, **主持人**  
 [2016-2019] 国家自然科学基金面上项目, 61572409, “基于CP-nets的多Agent定性博弈”, 61万, 主要参与人  
 [2015-2019] 山东省重点研发计划项目, 2015GSF115009, “山东近岸海域海洋生态大数据云存储平台构建及应用研究”, 20万, 主要参与人  
