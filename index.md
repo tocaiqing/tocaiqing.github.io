@@ -69,9 +69,9 @@
 * **Qing Cai***, Huiying Liu, Yiming Qian, Sanping Zhou, Jinjun Wang, Yee-Hong Yang. "Saliency-Guided Level Set Model for Automatic Object Segmentation", 2019, Pattern Recognition. (CCF B, **中科院SCI一区Top 期刊**, IF=8.518) <a href="https://ieeexplore.ieee.org/abstract/document/9626663" target="_blank">[PDF]</a>
 * **Qing Cai***, Huiying Liu, Sanping Zhou, Jingfeng Sun, Jing Li. "An Adaptive-Scale Active Contour Model for Inhomogeneous Image Segmentation and Bias Feld Estimation", 2018, Pattern Recognition. (CCF B, **中科院SCI一区Top 期刊**, IF=8.518) <a href="https://ieeexplore.ieee.org/abstract/document/9626663" target="_blank">[PDF]</a>
 * **Qing Cai***, Huiying Liu, Yiming Qian, Jing Li, Xiaojun Duan, Yee-Hong Yang. "Local and Global Active Contour Model for Image Segmentation with Intensity Inhomogeneity", 2018, IEEE Access. <a href="https://ieeexplore.ieee.org/abstract/document/9626663" target="_blank">[PDF]</a>
-* **Qing Cai***, 刘慧英,孙景峰,周三平,李靖. "基于自适应分割与偏移场估计的活动轮廓模型", 2018, 系统工程与电子技术. 
-* **Qing Cai***, Huiying Liu, Sanping Zhou, Jingfeng Sun, Jing Li. "An Adaptive-Scale Active Contour Model for Inhomogeneous Image Segmentation and Bias Feld Estimation", 2018, Pattern Recognition. (CCF B, **中科院SCI一区Top 期刊**, IF=8.518) <a href="https://ieeexplore.ieee.org/abstract/document/9626663" target="_blank">[PDF]</a>
-* **Qing Cai***, Huiying Liu, Yiming Qian, Jing Li, Xiaojun Duan, Yee-Hong Yang. "Local and Global Active Contour Model for Image Segmentation with Intensity Inhomogeneity", 2018, IEEE Access. <a href="https://ieeexplore.ieee.org/abstract/document/9626663" target="_blank">[PDF]</a>
+* **蔡青***, 刘慧英,孙景峰,周三平,李靖. "基于自适应分割与偏移场估计的活动轮廓模型", 2018, 系统工程与电子技术. 
+* **蔡青***, 刘慧英,孙景峰,李靖,周三平. "基于信息熵的自适应尺度活动轮廓图像分割模型", 2017, 西北工业大学学报. 
+* **蔡青***, 刘慧英,孙景峰,周三平,李靖. "基于局部和全局信息的自适应水平集图像分割", 2017, 强激光与粒子束. 
 
 [↑Top](#Top)
 
