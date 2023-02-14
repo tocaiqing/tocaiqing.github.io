@@ -25,7 +25,8 @@
 + <span style="color:red;">2022/05/19 祝贺于澎洋一作的论文“Multiplex Heterogeneous Graph Convolutional Network”被CCF A类会议KDD 2022接收！</span>
 + <span style="color:red;">2022/04/21 祝贺陈伟一作的论文“Mutual Distillation Learning Network for Trajectory-User Linking”被CCF A类会议IJCAI 2022接收！</span>
 + <span style="color:red;">2022/03/24 祝贺郜中强和程传奇为共同一作的论文“Scalable Motif Counting for Large-scale Temporal Graphs”被CCF A类会议ICDE 2022接收！</span>
-+ <span style="color:red;">2021/08/18 国家自然科学基金面上项目“面向大规模复杂时空数据的表征学习方法及其应用研究”（批准号：62176243，资助金额：58万）成功获批！</span>
++ <span style="color:red;">2021/08/18 祝贺导师张大鹏教授获批国家自然科学基金面上项目“基于边界注意力水平集的医学图像分割关键技术研究”（批准号：62172347，资助金额：60万）成功获批！</span>
++ <span style="color:red;">2021/08/18 国家自然科学基金青年项目“基于边界注意力水平集的医学图像分割关键技术研究”（批准号：62102338，资助金额：30万）成功获批！</span>
 
 ## 工作经历
 2022/09-至今，中国海洋大学，副教授，硕士生导师   
