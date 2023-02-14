@@ -59,7 +59,7 @@
 [2018-2020] 中航产学研项目, “xxxxxx”, xx万, 参与人  
 [2013-2016] 成都飞机工业有限公司项目,  “xxxxxx”, xxx万, 参与人  
 
-## 发表论文（近5年）（<a href="https://scholar.google.com/citations?user=0dnTKrcAAAAJ&hl=en">谷歌学术</a>） 
+## 代表论文（近5年）（<a href="https://scholar.google.com/citations?user=0dnTKrcAAAAJ&hl=en">谷歌学术</a>） 
 \# 指导学生，\* 通讯作者
 * **Qing Cai**, Jinxing Li*, Huafeng Li, Yee-Hong Yang, Feng Wu, David Zhang*. "TDPN: Texture and Detail-Preserving Network for Single Image Super-Resolution", 2022, IEEE Transactions on Image Processing. (**CCF A**, **中科院SCI一区Top 期刊**, **IF=11.041**) <a href="https://ieeexplore.ieee.org/abstract/document/9727093" target="_blank">[PDF]</a>  <span style="color:red;">**New!** </span> 
 * Fan Zhang#, Huiying Liu, Chuanshuo Cao, **Qing Cai***, David Zhang. "RVLSM: Robust Variational Level Set Method for Image Segmentation with Intensity Inhomogeneity and High Noise", 2022, Information Sciences. (CCF B, **中科院SCI一区Top 期刊**, IF=8.233) <a href="https://ieeexplore.ieee.org/abstract/document/9727093" target="_blank">[PDF]</a>
