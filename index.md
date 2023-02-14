@@ -18,7 +18,7 @@
 **教授课程：** 计算机系统基础(本科生)，机器学习(研究生) 
 
 ## 新闻
-+ <span style="color:red;">2022/11/19 祝贺张帆一作的论文“RVLSM: Robust Variational Level Set Method for Image Segmentation with Intensity Inhomogeneity and High Noise”被中科院一区TOP期刊Information Sciences接收！</span>
++ <span style="color:red;">2022/11/19 祝贺张帆一作论文“RVLSM: Robust Variational Level Set Method for Image Segmentation with Intensity Inhomogeneity and High Noise”被中科院一区TOP期刊Information Sciences接收！</span>
 + <span style="color:red;">2022/03/03 论文“TDPN: Texture and Detail-Preserving Network for Single Image Super-Resolution”被CCF A类期刊IEEE TIP 接收！</span>
 + <span style="color:red;">2021/11/24 论文“A Novel Hybrid Level Set Model for Non-Rigid Object Contour Tracking”被CCF A类期刊IEEE TIP 接收！</span>
 + <span style="color:red;">2021/11/18 论文“AVLSM: adaptive variational level set model for image segmentation in the presence of severe intensity inhomogeneity and high noise”被CCF A类期刊IEEE TIP 接收！</span>
