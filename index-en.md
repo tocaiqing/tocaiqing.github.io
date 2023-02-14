@@ -54,9 +54,8 @@ Discrete Mathematics I (Undergrad), Database System (Undergrad), Data Warehousin
 [2011-2013] NSFC-Youth, 61003251, “Online Modeling for Temporal Variations of Multi-channel Links in Frequency Hopping based Wireless Sensor Networks”, ￥180,000, Participant  
 [2009-2013] NSF, 0917017, “III: Small: Query Mesh - A Novel Paradigm for Query Processing”, $500,000, Participant  
 
-## Selected Publications (<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">Google Scholar</a>) 
+## Selected Publications (<a href="https://scholar.google.com/citations?user=0dnTKrcAAAAJ&hl=en">Google Scholar</a>) 
 \# Supervised students, \* Corresponding author
-\# 指导学生，\* 通讯作者
 + **Qing Cai**, Jinxing Li\*, Huafeng Li, Yee-Hong Yang, Feng Wu, David Zhang*. "TDPN: Texture and Detail-Preserving Network for Single Image Super-Resolution", 2022, IEEE Transactions on Image Processing. (**CCF A**, **中科院SCI一区Top 期刊**, **IF=11.041**) <a href="https://ieeexplore.ieee.org/abstract/document/9619954/" target="_blank">[PDF]</a> <span style="color:red;">**New!**</span>
 + Fan Zhang#, Huiying Liu, Chuanshuo Cao, **Qing Cai***, David Zhang. "RVLSM: Robust Variational Level Set Method for Image Segmentation with Intensity Inhomogeneity and High Noise", 2022, Information Sciences. (CCF B, **中科院SCI一区Top 期刊**, IF=8.233) <a href="https://ieeexplore.ieee.org/abstract/document/9727093" target="_blank">[PDF]</a>
 + Xinyu Lin#, **Qing Cai***, Huafeng Li. "Hierarchical Complementary Residual Attention Learning for Defocus Blur Detection", 2022, Neurocomputing. (中科院SCI二区期刊, IF=5.779) <a href="https://www.sciencedirect.com/science/article/pii/S092523122200741X" target="_blank">[PDF]</a>
