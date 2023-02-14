@@ -18,12 +18,9 @@
 **教授课程：** 计算机系统基础(本科生)，机器学习(研究生) 
 
 ## 新闻
-+ <span style="color:red;">2022/11/19 祝贺秦广明一作的论文“Graph Structure Learning on User Mobility Data for Social Relationship Inference”被CCF A类会议AAAI 2023接收！</span>
-+ <span style="color:red;">2022/10/19 课题组申报的项目“面向大规模、高维、流式大数据的高效异常检测方法研究”获得2022年度山东省人工智能自然科学二等奖！</span>
-+ <span style="color:red;">2022/10/19 祝贺刘志骏同学的硕士论文“大规模属性网络的表征学习方法研究”被评选为2022年度山东省人工智能优秀硕士学位论文！</span>
-+ <span style="color:red;">2022/09/04 祝贺代少杰一作的论文“Dynamic Multi-View Graph Neural Networks for Citywide Traffic Inference”被CCF B类期刊TKDD接收！</span>
-+ <span style="color:red;">2022/05/19 祝贺于澎洋一作的论文“Multiplex Heterogeneous Graph Convolutional Network”被CCF A类会议KDD 2022接收！</span>
-+ <span style="color:red;">2021/11/24 论文“Mutual Distillation Learning Network for Trajectory-User Linking”被CCF A类会议IJCAI 2022接收！</span>
++ <span style="color:red;">2022/11/19 祝贺张帆一作的论文“RVLSM: Robust Variational Level Set Method for Image Segmentation with Intensity Inhomogeneity and High Noise”被中科院一区TOP期刊Information Sciences接收！</span>
++ <span style="color:red;">2022/03/03 论文“TDPN: Texture and Detail-Preserving Network for Single Image Super-Resolution”被CCF A类期刊IEEE TIP 接收！</span>
++ <span style="color:red;">2021/11/24 论文“A Novel Hybrid Level Set Model for Non-Rigid Object Contour Tracking”被CCF A类期刊IEEE TIP 接收！</span>
 + <span style="color:red;">2021/11/18 论文“AVLSM: adaptive variational level set model for image segmentation in the presence of severe intensity inhomogeneity and high noise”被CCF A类期刊IEEE TIP 接收！</span>
 + <span style="color:red;">2021/08/18 祝贺导师张大鹏教授获批国家自然科学基金面上项目“大规模非接触式多模态掌纹识别研究”（批准号：62172347，资助金额：60万）成功获批！</span>
 + <span style="color:red;">2021/08/18 国家自然科学基金青年项目“基于边界注意力水平集的医学图像分割关键技术研究”（批准号：62102338，资助金额：30万）成功获批！</span>
