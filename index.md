@@ -23,9 +23,9 @@
 + <span style="color:red;">2022/10/19 祝贺刘志骏同学的硕士论文“大规模属性网络的表征学习方法研究”被评选为2022年度山东省人工智能优秀硕士学位论文！</span>
 + <span style="color:red;">2022/09/04 祝贺代少杰一作的论文“Dynamic Multi-View Graph Neural Networks for Citywide Traffic Inference”被CCF B类期刊TKDD接收！</span>
 + <span style="color:red;">2022/05/19 祝贺于澎洋一作的论文“Multiplex Heterogeneous Graph Convolutional Network”被CCF A类会议KDD 2022接收！</span>
-+ <span style="color:red;">2022/04/21 祝贺陈伟一作的论文“Mutual Distillation Learning Network for Trajectory-User Linking”被CCF A类会议IJCAI 2022接收！</span>
-+ <span style="color:red;">2022/03/24 祝贺郜中强和程传奇为共同一作的论文“Scalable Motif Counting for Large-scale Temporal Graphs”被CCF A类会议ICDE 2022接收！</span>
-+ <span style="color:red;">2021/08/18 祝贺导师张大鹏教授获批国家自然科学基金面上项目“基于边界注意力水平集的医学图像分割关键技术研究”（批准号：62172347，资助金额：60万）成功获批！</span>
++ <span style="color:red;">2021/11/24 论文“Mutual Distillation Learning Network for Trajectory-User Linking”被CCF A类会议IJCAI 2022接收！</span>
++ <span style="color:red;">2021/11/18 论文“AVLSM: adaptive variational level set model for image segmentation in the presence of severe intensity inhomogeneity and high noise”被CCF A类期刊IEEE TIP 接收！</span>
++ <span style="color:red;">2021/08/18 祝贺导师张大鹏教授获批国家自然科学基金面上项目“大规模非接触式多模态掌纹识别研究”（批准号：62172347，资助金额：60万）成功获批！</span>
 + <span style="color:red;">2021/08/18 国家自然科学基金青年项目“基于边界注意力水平集的医学图像分割关键技术研究”（批准号：62102338，资助金额：30万）成功获批！</span>
 
 ## 工作经历
