@@ -57,12 +57,12 @@
 [2022-2025] 国家自然科学基金面上项目, “大规模非接触式多模态掌纹识别研究”, 60万, **第三参与人**  
 [2015-2018] 国家自然科学基金面上项目, “基于深层神经网络的多模态快速稀疏表示”, 82万, 参与人  
 [2018-2020] 中航产学研项目, “xxxxxx”, xx万, 参与人  
-[2013-2016] 成都飞机工业有限公司项目,  “xxxxxx”, xx万, 参与人  
+[2013-2016] 成都飞机工业有限公司项目,  “xxxxxx”, xxx万, 参与人  
 
 ## 发表论文（<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">谷歌学术</a>） 
 \# 指导学生，\* 通讯作者
 * <u>**Qing Cai**<u>, Jinxing Li*, Huafeng Li, Yee-Hong Yang, Feng Wu, David Zhang*. "TDPN: Texture and Detail-Preserving Network for Single Image Super-Resolution", 2022, IEEE Transactions on Image Processing. (**CCF A**, **中科院SCI一区Top 期刊**, **IF=11.041**) <a href="https://ieeexplore.ieee.org/abstract/document/9727093" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span> 
-* Fan Zhang#, Huiying Liu, Chuanshuo Cao, <u>**Qing Cai***<u>, David Zhang. "RVLSM: Robust Variational Level Set Method for Image Segmentation with Intensity Inhomogeneity and High Noise", 2021, IEEE Transactions on Image Processing. (**CCF A**, **中科院SCI一区Top 期刊**, **IF=11.041**) <a href="https://ieeexplore.ieee.org/abstract/document/9727093" target="_blank">[PDF]</a>
+* Fan Zhang#, Huiying Liu, Chuanshuo Cao, <u>**Qing Cai***<u>, David Zhang. "RVLSM: Robust Variational Level Set Method for Image Segmentation with Intensity Inhomogeneity and High Noise", 2022, Information Sciences. (CCF B, **中科院SCI一区Top 期刊**, IF=8.233) <a href="https://ieeexplore.ieee.org/abstract/document/9727093" target="_blank">[PDF]</a>
 * <u>**Qing Cai**<u>, Yiming Qian, Sanping Zhou, Jinxing Li*, Yee-Hong Yang, Feng Wu, David Zhang*. "AVLSM: Adaptive Variational Level Set Model for Image Segmentation in the Presence of Severe Intensity Inhomogeneity and High Noise", 2021, IEEE Transactions on Image Processing. (**CCF A**, **中科院SCI一区Top 期刊**, **IF=11.041**) <a href="https://ieeexplore.ieee.org/abstract/document/9727093" target="_blank">[PDF]</a>
 * Shaojie Dai#, Jinshuai Wang#, Chao Huang, <u>Yanwei Yu*</u>, Junyu Dong. Dynamic Multi-View Graph Neural Networks for Citywide Traffic Inference. ACM Transactions on Knowledge Discovery from Data (**TKDD**), 2022 (**CCF B**, Online) <a href="https://dl.acm.org/doi/pdf/10.1145/3564754" target="_blank">[PDF]</a> <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a>  <span style="color:red;">**New!**</span>
 * Kai Wang#, <u>Yanwei Yu*</u>, Chao Huang, Zhongying Zhao, Junyu Dong. Heterogeneous Graph Neural Network for Attribute Completion. Knowledge-Based Systems. 2022. (**中科院一区Top期刊**, **CCF C**) <a href="/papers/kai2022heterogeneousKBS.pdf" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a>   <span style="color:red;">**New!**</span>
