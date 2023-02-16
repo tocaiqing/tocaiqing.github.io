@@ -17,7 +17,7 @@
 + 2022/03/03 One paper was accepted by IEEE TIP.
 + 2021/11/24 One paper was accepted by IEEE TIP.
 + 2021/11/18 One paper was accepted by IEEE TIP.
-+ 2021/08/18 Two NSFC Fund were approved.  
++ 2021/08/18 Two NSFC Funds were approved.  
 
 ## Projects
 [2022-2025] Ocean University of China, ￥300,000, **PI** <span style="color:red;">**New!**</span>  
