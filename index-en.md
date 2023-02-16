@@ -22,27 +22,6 @@
 + 2021/8/31 One paper was accepted by ICDM 2021.  
 + 2021/8/18 NSFC proposal was approved.  
 
-## Teaching
-Discrete Mathematics I (Undergrad), Database System (Undergrad), Data Warehousing and Data Mining (Graduate) 
-
-## Experience
-2022/11-Now, Professor, College of Computer Science and Technology, Ocean University of China    
-2019/08-2022/10, Associate Professor, College of Computer Science and Technology, Ocean University of China    
-2018/09-2019/08, Associate Professor, School of Computer and Control Engineering, Yantai University   
-2014/03-2018/08, Assistant Professor, School of Computer and Control Engineering, Yantai University  
-
-## Education
-2016/11-2018/09, Postdoc Researcher, IST, Pennsylvania State University, United States   
-2012/09-2013/10, Visiting Ph.D. Student, Dept. of Computer Science, Worcester Polytechnic Institute, United States    
-2008/09-2014/01, Ph.D., Computer Science, University of Science and Technology Beijing, China      
-2004/09-2008/07, B.Sc. , School of Computer, Liaocheng University, China   
-
-## Professional Services
-+ Reviewer of National Natural Science Foundation of China (2015-Now)  
-+ Board member of ShanDong Association for Artificial Intelligence    
-+ PC Member: WSDM2023, WWW2023, AAAI2023, IJCAI2022, WWW2022, AAAI2022, KDD2022, SDM2022, KDD2021, AAAI2021, SDM2021, KDD2020, AAAI2020, SDM2020, KDD2019, CIKM2019, SDM2019, IPCCC2018, UrbComp2018, DIT2018, InTI2018, UrbComp2016   
-+ Reviewer: IEEE Transactions on Cybernetics, IEEE Transactions on Mobile Computing, ACM Transactions on Intelligent Systems and Technology, IEEE Transactions on Big Data, Knowledge-based Systems, IEEE Access.    
-
 ## Projects
 [2022-2025] **NSFC**, 62176243, “Representation Learning for Large-Scale Complex Spatiotemporal Data and Its Applications”, ￥739,000, **PI** <span style="color:red;">**New!**</span>    
 [2018-2021] **NSFC**, 61773331, “Semantic Annotation and Semantic Pattern Mining for Trajectory Big Data”, ￥768,000, **PI**     
@@ -64,6 +43,12 @@ Discrete Mathematics I (Undergrad), Database System (Undergrad), Data Warehousin
 + **Qing Cai***, Huiying Liu, Yiming Qian, Sanping Zhou, Xiaojun Duan, Yee-Hong Yang. "A Novel Hybrid Level Set Model for Non-Rigid Object Contour Tracking", 2021, IEEE Transactions on Image Processing. (**CCF A**, **JCR Q1**, **IF=11.041**) <a href="https://ieeexplore.ieee.org/abstract/document/9626663" target="_blank">[PDF]</a>
 + **Qing Cai***, Huiying Liu, Yiming Qian, Sanping Zhou, Jinjun Wang, Yee-Hong Yang. "Saliency-Guided Level Set Model for Automatic Object Segmentation", 2019, Pattern Recognition. (CCF B, **JCR Q1**, IF=8.518) <a href="https://www.sciencedirect.com/science/article/pii/S0031320319301657" target="_blank">[PDF]</a>
 + **Qing Cai***, Huiying Liu, Sanping Zhou, Jingfeng Sun, Jing Li. "An Adaptive-Scale Active Contour Model for Inhomogeneous Image Segmentation and Bias Feld Estimation", 2018, Pattern Recognition. (CCF B, **JCR Q1**, IF=8.518) <a href="https://www.sciencedirect.com/science/article/pii/S0031320318301729" target="_blank">[PDF]</a>
+    
+## Public Service
++ Reviewer of National Natural Science Foundation of China (2015-Now)  
++ Board member of ShanDong Association for Artificial Intelligence    
++ PC Member: WSDM2023, WWW2023, AAAI2023, IJCAI2022, WWW2022, AAAI2022, KDD2022, SDM2022, KDD2021, AAAI2021, SDM2021, KDD2020, AAAI2020, SDM2020, KDD2019, CIKM2019, SDM2019, IPCCC2018, UrbComp2018, DIT2018, InTI2018, UrbComp2016   
++ Reviewer: IEEE Transactions on Cybernetics, IEEE Transactions on Mobile Computing, ACM Transactions on Intelligent Systems and Technology, IEEE Transactions on Big Data, Knowledge-based Systems, IEEE Access.    
 
 [↑Top](#Top)
 
