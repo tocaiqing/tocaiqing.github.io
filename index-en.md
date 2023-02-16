@@ -7,7 +7,7 @@
 ———————————————————————————————————————————————
 
 ## Contact
-**Affiliation:** <a href="https://it.ouc.edu.cn/cs/main.htm">Faculty of Information Science and Engineering</a>
+**Affiliation:** <a href="https://it.ouc.edu.cn/cs/main.htm">Faculty of Information Science and Engineering</a>  
 **Email:** yuyanwei@ouc.edu.cn   
 **Office:** A506, Xinxi South Building, 1299 Sansha RD, Qingdao, Shandong 266400     
 
