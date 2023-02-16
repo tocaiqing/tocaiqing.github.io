@@ -14,13 +14,10 @@
 **Office:** A506, Xinxi South Building, 1299 Sansha RD, Qingdao, Shandong 266400     
 
 ## News
-+ 2022/11/19 One paper was accepted by AAAI 2023.
-+ 2022/9/04 One paper was accepted by ACM TKDD.
-+ 2022/5/19 Two paper was accepted by KDD 2022.
-+ 2022/4/21 One paper was accepted by IJCAI 2022.
-+ 2022/3/24 One paper was accepted by ICDE 2022. 
-+ 2021/8/31 One paper was accepted by ICDM 2021.  
-+ 2021/8/18 NSFC proposal was approved.  
++ 2022/03/03 One paper was accepted by IEEE TIP.
++ 2021/11/24 One paper was accepted by IEEE TIP.
++ 2021/11/18 One paper was accepted by IEEE TIP.
++ 2021/08/18 Two NSFC Fund were approved.  
 
 ## Projects
 [2022-2025] **NSFC**, 62176243, “Representation Learning for Large-Scale Complex Spatiotemporal Data and Its Applications”, ￥739,000, **PI** <span style="color:red;">**New!**</span>    
