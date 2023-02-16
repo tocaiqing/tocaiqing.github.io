@@ -7,9 +7,9 @@
 ———————————————————————————————————————————————
 
 ## Contact
+**Affiliation:** <a href="https://it.ouc.edu.cn/cs/main.htm">Faculty of Information Science and Engineering</a>
 **Email:** yuyanwei@ouc.edu.cn   
-**Office:** A329, Xinxi South Building, 1299 Sansha RD, Qingdao, Shandong 266400   
-**Tel:** +86-157252900    
+**Office:** A506, Xinxi South Building, 1299 Sansha RD, Qingdao, Shandong 266400     
 
 ## News
 + 2022/11/19 One paper was accepted by AAAI 2023.
