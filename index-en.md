@@ -15,6 +15,8 @@
 **Office:** A506, Xinxi South Building, 1299 Sansha RD, Qingdao, Shandong 266400     
 
 ## News
+
++ <span style="color:red;">2022/03/03 One paper was accepted by IEEE TNNLS</span>.
 + <span style="color:red;">2022/03/03 One paper was accepted by IEEE TIP</span>.
 + <span style="color:red;">2021/11/24 One paper was accepted by IEEE TIP</span>.
 + <span style="color:red;">2021/11/18 One paper was accepted by IEEE TIP</span>.
@@ -29,6 +31,7 @@
 
 ## Selected Publications (<a href="https://scholar.google.com/citations?user=0dnTKrcAAAAJ&hl=en">Google Scholar</a>) 
 \# Supervised students, \* Corresponding author
++ Jun Lyu, Guangyuan Li, Chengyan Wang, **Qing Cai***, Qi Dou, David Zhang and Jing Qin. "Multi-contrast MRI Super-Resolution via Transformer-empowered Multi-scale Contextual Matching and Aggregation", 2023, IEEE Transactions on Image Processing. (CCF B, **JCR Q1**, **IF=14.255**)<span style="color:red;">**New!**</span>
 + **Qing Cai**, Jinxing Li\*, Huafeng Li, Yee-Hong Yang, Feng Wu, David Zhang*. "TDPN: Texture and Detail-Preserving Network for Single Image Super-Resolution", 2022, IEEE Transactions on Image Processing. (**CCF A**, **JCR Q1**, **IF=11.041**) <a href="https://ieeexplore.ieee.org/abstract/document/9619954/" target="_blank">[PDF]</a> <span style="color:red;">**New!**</span>
 + Fan Zhang#, Huiying Liu, Chuanshuo Cao, **Qing Cai***, David Zhang. "RVLSM: Robust Variational Level Set Method for Image Segmentation with Intensity Inhomogeneity and High Noise", 2022, Information Sciences. (CCF B, **JCR Q1**, IF=8.233) <a href="https://ieeexplore.ieee.org/abstract/document/9727093" target="_blank">[PDF]</a>
 + Xinyu Lin#, **Qing Cai***, Huafeng Li. "Hierarchical Complementary Residual Attention Learning for Defocus Blur Detection", 2022, Neurocomputing. (JCR Q1, IF=5.779) <a href="https://www.sciencedirect.com/science/article/pii/S092523122200741X" target="_blank">[PDF]</a>
