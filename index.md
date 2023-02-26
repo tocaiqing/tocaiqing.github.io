@@ -18,10 +18,10 @@
 **教授课程：** 计算机系统基础(本科生)，机器学习(研究生) 
 
 ## 新闻
-+ <span style="color:red;">2022/03/03 论文“Multi-contrast MRI Super-Resolution via Transformer-empowered Multi-scale Contextual Matching and Aggregation”被期刊TNNLS 接收！</span>
-+ <span style="color:red;">2022/03/03 论文“TDPN: Texture and Detail-Preserving Network for Single Image Super-Resolution”被CCF A类期刊IEEE TIP 接收！</span>
-+ <span style="color:red;">2021/11/24 论文“A Novel Hybrid Level Set Model for Non-Rigid Object Contour Tracking”被CCF A类期刊IEEE TIP 接收！</span>
-+ <span style="color:red;">2021/11/18 论文“AVLSM: adaptive variational level set model for image segmentation in the presence of severe intensity inhomogeneity and high noise”被CCF A类期刊IEEE TIP 接收！</span>
++ <span style="color:red;">2022/03/03 论文“Multi-contrast MRI Super-Resolution via Transformer-empowered Multi-scale Contextual Matching and Aggregation”被期刊IEEE TNNLS接收！</span>
++ <span style="color:red;">2022/03/03 论文“TDPN: Texture and Detail-Preserving Network for Single Image Super-Resolution”被CCF A类期刊IEEE TIP接收！</span>
++ <span style="color:red;">2021/11/24 论文“A Novel Hybrid Level Set Model for Non-Rigid Object Contour Tracking”被CCF A类期刊IEEE TIP接收！</span>
++ <span style="color:red;">2021/11/18 论文“AVLSM: adaptive variational level set model for image segmentation in the presence of severe intensity inhomogeneity and high noise”被CCF A类期刊IEEE TIP接收！</span>
 + <span style="color:red;">2021/08/18 祝贺导师张大鹏教授获批国家自然科学基金面上项目“大规模非接触式多模态掌纹识别研究”（批准号：62172347，资助金额：60万）成功获批！</span>
 + <span style="color:red;">2021/08/18 国家自然科学基金青年项目“基于边界注意力水平集的医学图像分割关键技术研究”（批准号：62102338，资助金额：30万）成功获批！</span>
 
