@@ -33,6 +33,7 @@
 
 ## Selected Publications (<a href="https://scholar.google.com/citations?user=0dnTKrcAAAAJ&hl=en">Google Scholar</a>) 
 \# Supervised students, \* Corresponding author
++ **Qing Cai**,Yiming Qian, Jinxing Li, Jun Lv\*, Yee-Hong Yang, Feng Wu, David Zhang*. "TDPN: Texture and Detail-Preserving Network for Single Image Super-Resolution", 2023, IEEE Transactions on Image Processing. (**CCF A**, **JCR Q1**, **IF=11.041**) <a href="https://ieeexplore.ieee.org/abstract/document/" target="_blank">[PDF]</a> 
 + Jun Lyu, Guangyuan Li, Chengyan Wang, **Qing Cai***, Qi Dou, David Zhang and Jing Qin. "Multi-contrast MRI Super-Resolution via Transformer-empowered Multi-scale Contextual Matching and Aggregation", 2023, IEEE Transactions on Neural Networks and Learning Systems. (CCF B, **JCR Q1**, **IF=14.255**)<span style="color:red;">**New!**</span>
 + **Qing Cai**, Jinxing Li\*, Huafeng Li, Yee-Hong Yang, Feng Wu, David Zhang*. "TDPN: Texture and Detail-Preserving Network for Single Image Super-Resolution", 2022, IEEE Transactions on Image Processing. (**CCF A**, **JCR Q1**, **IF=11.041**) <a href="https://ieeexplore.ieee.org/abstract/document/9619954/" target="_blank">[PDF]</a> <span style="color:red;">**New!**</span>
 + Fan Zhang#, Huiying Liu, Chuanshuo Cao, **Qing Cai***, David Zhang. "RVLSM: Robust Variational Level Set Method for Image Segmentation with Intensity Inhomogeneity and High Noise", 2022, Information Sciences. (CCF B, **JCR Q1**, IF=8.233) <a href="https://ieeexplore.ieee.org/abstract/document/9727093" target="_blank">[PDF]</a>
