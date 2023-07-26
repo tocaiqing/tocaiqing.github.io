@@ -18,6 +18,7 @@
 **教授课程：** 计算机系统基础(本科生)，机器学习(研究生) 
 
 ## 新闻
++ <span style="color:red;">2023/07/26 祝贺课题组郭少翔博士的论文“CLIP-Hand3D: Exploiting 3D Hand Pose Estimation via Context-Aware Prompting”被CCF A类会议ACM MM接收！
 + <span style="color:red;">2023/05/18 论文“HIPA: Hierarchical Patch Transformer for Single Image Super Resolution”被CCF A类期刊IEEE TIP接收！</span>
 + <span style="color:red;">2023/02/24 论文“Multi-contrast MRI Super-Resolution via Transformer-empowered Multi-scale Contextual Matching and Aggregation”被期刊IEEE TNNLS接收！</span>
 + <span style="color:red;">2022/03/03 论文“TDPN: Texture and Detail-Preserving Network for Single Image Super-Resolution”被CCF A类期刊IEEE TIP接收！</span>
@@ -61,12 +62,13 @@
 [2013-2016] 成都飞机工业有限公司项目,  “xxxxxx”, xxx万, 参与人  
 
 ## 代表论文（近5年）（<a href="https://scholar.google.com/citations?user=0dnTKrcAAAAJ&hl=en">谷歌学术</a>） 
-\# 指导学生，\* 通讯作者
+\* 通讯作者
++ Shao Xiang Guo, **Qing Cai***, Lin Qi and Junyu Dong*. "CLIP-Hand3D: Exploiting 3D Hand Pose Estimation via Context-Aware Prompting", 2023, ACM International Conference on Multimedia (ACM MM). (**CCF A 类会议**)<span style="color:red;">**New!**</span> 
 + **Qing Cai**,Yiming Qian, Jinxing Li, Jun Lyu\*, Yee-Hong Yang, Feng Wu, David Zhang*. "HIPA: Hierarchical Patch Transformer for Single Image Super Resolution", 2023, IEEE Transactions on Image Processing. (**CCF A**, **中科院SCI一区Top 期刊**, **IF=11.041**) <a href="https://ieeexplore.ieee.org/abstract/document/" target="_blank">[PDF]</a> <span style="color:red;">**New!**</span>
 + Jun Lyu, Guangyuan Li, Chengyan Wang, **Qing Cai***, Qi Dou, David Zhang and Jing Qin. "Multi-contrast MRI Super-Resolution via Transformer-empowered Multi-scale Contextual Matching and Aggregation", 2023, IEEE Transactions on Neural Networks and Learning Systems. (CCF B, **中科院SCI一区Top 期刊**, **IF=14.255**)<span style="color:red;">**New!**</span> 
 + **Qing Cai**, Jinxing Li\*, Huafeng Li, Yee-Hong Yang, Feng Wu, David Zhang*. "TDPN: Texture and Detail-Preserving Network for Single Image Super-Resolution", 2022, IEEE Transactions on Image Processing. (**CCF A**, **中科院SCI一区Top 期刊**, **IF=11.041**) <a href="https://ieeexplore.ieee.org/abstract/document/9619954/" target="_blank">[PDF]</a> 
 + Fan Zhang#, Huiying Liu, Chuanshuo Cao, **Qing Cai***, David Zhang. "RVLSM: Robust Variational Level Set Method for Image Segmentation with Intensity Inhomogeneity and High Noise", 2022, Information Sciences. (CCF B, **中科院SCI一区Top 期刊**, IF=8.233) <a href="https://ieeexplore.ieee.org/abstract/document/9727093" target="_blank">[PDF]</a>
-+ Xinyu Lin#, **Qing Cai***, Huafeng Li. "Hierarchical Complementary Residual Attention Learning for Defocus Blur Detection", 2022, Neurocomputing. (中科院SCI二区期刊, IF=5.779) <a href="https://www.sciencedirect.com/science/article/pii/S092523122200741X" target="_blank">[PDF]</a>
++ Xinyu Lin, **Qing Cai***, Huafeng Li. "Hierarchical Complementary Residual Attention Learning for Defocus Blur Detection", 2022, Neurocomputing. (中科院SCI二区期刊, IF=5.779) <a href="https://www.sciencedirect.com/science/article/pii/S092523122200741X" target="_blank">[PDF]</a>
 + **Qing Cai**, Yiming Qian, Sanping Zhou, Jinxing Li\*, Yee-Hong Yang, Feng Wu, David Zhang*. "AVLSM: Adaptive Variational Level Set Model for Image Segmentation in the Presence of Severe Intensity Inhomogeneity and High Noise", 2021, IEEE Transactions on Image Processing. (**CCF A**, **中科院SCI一区Top 期刊**, **IF=11.041**) <a href="https://ieeexplore.ieee.org/abstract/document/9619954/" target="_blank">[PDF]</a>
 + **Qing Cai***, Huiying Liu, Yiming Qian, Sanping Zhou, Xiaojun Duan, Yee-Hong Yang. "A Novel Hybrid Level Set Model for Non-Rigid Object Contour Tracking", 2021, IEEE Transactions on Image Processing. (**CCF A**, **中科院SCI一区Top 期刊**, **IF=11.041**) <a href="https://ieeexplore.ieee.org/abstract/document/9626663" target="_blank">[PDF]</a>
 + **Qing Cai***, Huiying Liu, Yiming Qian, Sanping Zhou, Jinjun Wang, Yee-Hong Yang. "Saliency-Guided Level Set Model for Automatic Object Segmentation", 2019, Pattern Recognition. (CCF B, **中科院SCI一区Top 期刊**, IF=8.518) <a href="https://www.sciencedirect.com/science/article/pii/S0031320319301657" target="_blank">[PDF]</a>
