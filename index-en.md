@@ -16,6 +16,7 @@
 
 ## News
 
++ <span style="color:red;">2023/07/26 One paper was accepted by ACM MM</span>.
 + <span style="color:red;">2023/05/18 One paper was accepted by IEEE TIP</span>.
 + <span style="color:red;">2023/02/24 One paper was accepted by IEEE TNNLS</span>.
 + <span style="color:red;">2022/03/03 One paper was accepted by IEEE TIP</span>.
@@ -34,6 +35,7 @@
 
 ## Selected Publications (<a href="https://scholar.google.com/citations?user=0dnTKrcAAAAJ&hl=en">Google Scholar</a>) 
 \# Supervised students, \* Corresponding author
+Shao Xiang Guo, **Qing Cai***, Lin Qi and Junyu Dong*. "CLIP-Hand3D: Exploiting 3D Hand Pose Estimation via Context-Aware Prompting", 2023, ACM International Conference on Multimedia (ACM MM). (**CCF A**)<span style="color:red;">**New!**</span> 
 + **Qing Cai**,Yiming Qian, Jinxing Li, Jun Lyu\*, Yee-Hong Yang, Feng Wu, David Zhang*. "HIPA: Hierarchical Patch Transformer for Single Image Super Resolution", 2023, IEEE Transactions on Image Processing. (**CCF A**, **JCR Q1**, **IF=11.041**) <a href="https://ieeexplore.ieee.org/abstract/document/" target="_blank">[PDF]</a> <span style="color:red;">**New!**</span>
 + Jun Lyu, Guangyuan Li, Chengyan Wang, **Qing Cai***, Qi Dou, David Zhang and Jing Qin. "Multi-contrast MRI Super-Resolution via Transformer-empowered Multi-scale Contextual Matching and Aggregation", 2023, IEEE Transactions on Neural Networks and Learning Systems. (CCF B, **JCR Q1**, **IF=14.255**)<span style="color:red;">**New!**</span>
 + **Qing Cai**, Jinxing Li\*, Huafeng Li, Yee-Hong Yang, Feng Wu, David Zhang*. "TDPN: Texture and Detail-Preserving Network for Single Image Super-Resolution", 2022, IEEE Transactions on Image Processing. (**CCF A**, **JCR Q1**, **IF=11.041**) <a href="https://ieeexplore.ieee.org/abstract/document/9619954/" target="_blank">[PDF]</a> 
