@@ -16,7 +16,7 @@
 
 ## News
 + <span style="color:red;">2023/12/09 One paper was accepted by AAAI</span>.
-+ + <span style="color:red;">2023/11/26 One paper was accepted by ESWA</span>.
++ <span style="color:red;">2023/11/26 One paper was accepted by ESWA</span>.
 + <span style="color:red;">2023/07/26 One paper was accepted by ACM MM</span>.
 + <span style="color:red;">2023/05/18 One paper was accepted by IEEE TIP</span>.
 + <span style="color:red;">2023/02/24 One paper was accepted by IEEE TNNLS</span>.
