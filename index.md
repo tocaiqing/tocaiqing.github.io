@@ -18,7 +18,7 @@
 **教授课程：** 计算机系统基础(本科生)，机器学习(研究生) 
 
 ## 新闻
-+ <span style="color:red;">2023/07/26 论文“Spherical Pseudo-cylindrical Representation for Omnidirectional Image Super-Resolution”被CCF A类会议AAAI接收！
++ <span style="color:red;">2023/12/09 论文“Spherical Pseudo-cylindrical Representation for Omnidirectional Image Super-Resolution”被CCF A类会议AAAI接收！
 + <span style="color:red;">2023/07/26 祝贺课题组郭少翔博士的论文“CLIP-Hand3D: Exploiting 3D Hand Pose Estimation via Context-Aware Prompting”被CCF A类会议ACM MM接收！
 + <span style="color:red;">2023/05/18 论文“HIPA: Hierarchical Patch Transformer for Single Image Super Resolution”被CCF A类期刊IEEE TIP接收！</span>
 + <span style="color:red;">2023/02/24 论文“Multi-contrast MRI Super-Resolution via Transformer-empowered Multi-scale Contextual Matching and Aggregation”被期刊IEEE TNNLS接收！</span>
