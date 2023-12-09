@@ -35,6 +35,7 @@
 
 ## Selected Publications (<a href="https://scholar.google.com/citations?user=0dnTKrcAAAAJ&hl=en">Google Scholar</a>) 
 \# Supervised students, \* Corresponding author
+<span style="color:red;">2023/12/09 论文“Spherical Pseudo-cylindrical Representation for Omnidirectional Image Super-Resolution”,2023, AAAI Conference on Artificial Intelligence (**CCF A**). (**CCF A**)<span style="color:red;">**New!**</span> 
 + Shao Xiang Guo, **Qing Cai**\*, Lin Qi and Junyu Dong\*. "CLIP-Hand3D: Exploiting 3D Hand Pose Estimation via Context-Aware Prompting", 2023, ACM International Conference on Multimedia (ACM MM). (**CCF A**)<span style="color:red;">**New!**</span> 
 + **Qing Cai**,Yiming Qian, Jinxing Li, Jun Lyu\*, Yee-Hong Yang, Feng Wu, David Zhang*. "HIPA: Hierarchical Patch Transformer for Single Image Super Resolution", 2023, IEEE Transactions on Image Processing. (**CCF A**, **JCR Q1**, **IF=11.041**) <a href="https://ieeexplore.ieee.org/abstract/document/" target="_blank">[PDF]</a> <span style="color:red;">**New!**</span>
 + Jun Lyu, Guangyuan Li, Chengyan Wang, **Qing Cai***, Qi Dou, David Zhang and Jing Qin. "Multi-contrast MRI Super-Resolution via Transformer-empowered Multi-scale Contextual Matching and Aggregation", 2023, IEEE Transactions on Neural Networks and Learning Systems. (CCF B, **JCR Q1**, **IF=14.255**)<span style="color:red;">**New!**</span>
