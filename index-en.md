@@ -15,6 +15,8 @@
 **Office:** A506, Xinxi South Building, 1299 Sansha RD, Qingdao, Shandong 266400     
 
 ## News
++ <span style="color:red;">2024/03/12 One paper was accepted by PR</span>.
++ <span style="color:red;">2023/12/09 Qing Cai won the title of TaiShan Scholars Youth Expert Program of Shandong Province
 + <span style="color:red;">2023/12/09 One paper was accepted by AAAI</span>.
 + <span style="color:red;">2023/11/26 One paper was accepted by ESWA</span>.
 + <span style="color:red;">2023/07/26 One paper was accepted by ACM MM</span>.
@@ -27,7 +29,8 @@
 
 ## Projects
 [2022-2025] Ocean University of China, ￥300,000, **PI** <span style="color:red;">**New!**</span>  
-[2022-2024] National Science Foundation of China, ￥300,000, **PI** <span style="color:red;">**New!**</span>   
+[2022-2024] National Science Foundation of China, ￥300,000, **PI** <span style="color:red;">**New!**</span> 
+[2024-2026] TaiShan Scholars Youth Expert Program of Shandong Province, ￥750,000, **PI** <span style="color:red;">**New!**</span>
 [2021-2023] National Natural Science Foundation of Shandong Province, ￥140,000, **PI**  
 [2023-2024] China Postdoctoral Science Foundation, ￥80,000, **PI** 
 [2021-2022] China Postdoctoral Science Foundation, ￥80,000, **PI**  
@@ -36,7 +39,8 @@
 
 ## Selected Publications (<a href="https://scholar.google.com/citations?user=0dnTKrcAAAAJ&hl=en">Google Scholar</a>) 
 \# Supervised students, \* Corresponding author
-+ **Qing Cai**, Mu Li, Dongwei Ren, Jun Lyu, Haiyong Zheng*, Herbert Yang and Junyu Dong\*. "Spherical Pseudo-cylindrical Representation for Omnidirectional Image Super-Resolution ", 2023, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A**)<span style="color:red;">**New!**</span> 
++ **Qing Cai**, Mu Li, Dongwei Ren, Jun Lyu, Haiyong Zheng*, Herbert Yang and Junyu Dong\*. "Spherical Pseudo-cylindrical Representation for Omnidirectional Image Super-Resolution ", 2024, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A**)<span style="color:red;">**New!**</span>
++ Fan Zhang, Huiying Liu, Jinjiang Wang, Jun Lyu, **Qing Cai***, Huafeng Li, Junyu Dong, and David Zhang. "Cross co-teaching for semi-supervised medical image segmentation", 2024, Pattern Recognition. (CCF B, **JCRQ1**, IF=8.518)
 + Shao Xiang Guo, **Qing Cai**\*, Lin Qi and Junyu Dong\*. "CLIP-Hand3D: Exploiting 3D Hand Pose Estimation via Context-Aware Prompting", 2023, ACM International Conference on Multimedia (ACM MM). (**CCF A**)<span style="color:red;">**New!**</span> 
 + **Qing Cai**,Yiming Qian, Jinxing Li, Jun Lyu\*, Yee-Hong Yang, Feng Wu, David Zhang*. "HIPA: Hierarchical Patch Transformer for Single Image Super Resolution", 2023, IEEE Transactions on Image Processing. (**CCF A**, **JCR Q1**, **IF=11.041**) <a href="https://ieeexplore.ieee.org/abstract/document/" target="_blank">[PDF]</a> <span style="color:red;">**New!**</span>
 + Jun Lyu, Guangyuan Li, Chengyan Wang, **Qing Cai***, Qi Dou, David Zhang and Jing Qin. "Multi-contrast MRI Super-Resolution via Transformer-empowered Multi-scale Contextual Matching and Aggregation", 2023, IEEE Transactions on Neural Networks and Learning Systems. (CCF B, **JCR Q1**, **IF=14.255**)<span style="color:red;">**New!**</span>
