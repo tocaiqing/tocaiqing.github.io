@@ -18,6 +18,8 @@
 **教授课程：** 计算机系统基础(本科生)，机器学习(研究生) 
 
 ## 新闻
++  <span style="color:red;">2024/03/12 祝贺课题组张帆博士的论文“Cross co-teaching for semi-supervised medical image segmentation”被中科院一区Top期刊PR接收！
++ <span style="color:red;">2024/01/01 祝贺课题组蔡青荣获山东省泰山学者青年专家！
 + <span style="color:red;">2023/12/09 论文“Spherical Pseudo-cylindrical Representation for Omnidirectional Image Super-Resolution”被CCF A类会议AAAI接收！
 +  <span style="color:red;">2023/11/26 祝贺课题组张帆博士的论文“DSLSM: Dual-kernel-induced Statistic Level Set Model for Image Segmentation”被中科院一区Top期刊ESWA接收！
 + <span style="color:red;">2023/07/26 祝贺课题组郭少翔博士的论文“CLIP-Hand3D: Exploiting 3D Hand Pose Estimation via Context-Aware Prompting”被CCF A类会议ACM MM接收！
@@ -52,8 +54,9 @@
 ## 科研项目
 [2022-2025] **中国海洋大学青年英才工程科研启动经费**, “面向磁共振图像处理的关键技术研究”,30万, **主持人** <span style="color:red;">**New!**</span>    
 [2022-2024] **国家自然科学基金青年项目**, “基于边界注意力水平集的医学图像分割关键技术研究”,30万, **主持人** <span style="color:red;">**New!**</span>    
+[2024-2026] 山东省泰山学者青年专家项目,“婴幼儿脑磁共振图像分割及其在自闭症诊断应用的关键技术研究”,75万, **主持人**** <span style="color:red;">**New!**</span>  
 [2021-2023] 山东省自然科学基金青年项目,“基于深度学习与水平集的左心室磁共振图像分割算法研究”,14万, **主持人**  
-[2023-2024] 中国博士后科学基金面上项目, “面向复杂海洋环境的声呐图像分割关键技术研究”, 8万, **主持人** <span style="color:red;">**New!**</span>  
+[2023-2024] 中国博士后科学基金面上项目, “面向复杂海洋环境的声呐图像分割关键技术研究”, 8万, **主持人
 [2021-2022] 中国博士后科学基金面上项目, “基于边界注意力水平集的脑磁共振图像分割关键技术研究”, 8万, **主持人**  
 [2023-2024] 青岛博士后创新项目（一等）, 10万, **主持人** <span style="color:red;">**New!**</span>       
 [2014-2015] 西北工业大学研究生创新创意种子基金(重点项目), 2万, **主持人**  
@@ -65,7 +68,8 @@
 
 ## 代表论文（近5年）（<a href="https://scholar.google.com/citations?user=0dnTKrcAAAAJ&hl=en">谷歌学术</a>） 
 \* 通讯作者
-+ **Qing Cai**, Mu Li, Dongwei Ren, Jun Lyu, Haiyong Zheng*, Herbert Yang and Junyu Dong\*. "Spherical Pseudo-cylindrical Representation for Omnidirectional Image Super-Resolution ", 2023, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A 类会议**)<span style="color:red;">**New!**</span> 
++ **Qing Cai**, Mu Li, Dongwei Ren, Jun Lyu, Haiyong Zheng*, Herbert Yang and Junyu Dong\*. "Spherical Pseudo-cylindrical Representation for Omnidirectional Image Super-Resolution ", 2024, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A 类会议**)<span style="color:red;">**New!**</span>
++ Fan Zhang, Huiying Liu, Jinjiang Wang, Jun Lyu, **Qing Cai***, Huafeng Li, Junyu Dong, and David Zhang. "Cross co-teaching for semi-supervised medical image segmentation", 2024, Pattern Recognition. (CCF B, **中科院SCI一区Top 期刊**, IF=8.518)
 + Shao Xiang Guo, **Qing Cai**\*, Lin Qi and Junyu Dong\*. "CLIP-Hand3D: Exploiting 3D Hand Pose Estimation via Context-Aware Prompting", 2023, ACM International Conference on Multimedia (ACM MM). (**CCF A 类会议**)<span style="color:red;">**New!**</span> 
 + **Qing Cai**,Yiming Qian, Jinxing Li, Jun Lyu\*, Yee-Hong Yang, Feng Wu, David Zhang*. "HIPA: Hierarchical Patch Transformer for Single Image Super Resolution", 2023, IEEE Transactions on Image Processing. (**CCF A**, **中科院SCI一区Top 期刊**, **IF=11.041**) <a href="https://ieeexplore.ieee.org/abstract/document/" target="_blank">[PDF]</a> <span style="color:red;">**New!**</span>
 + Jun Lyu, Guangyuan Li, Chengyan Wang, **Qing Cai***, Qi Dou, David Zhang and Jing Qin. "Multi-contrast MRI Super-Resolution via Transformer-empowered Multi-scale Contextual Matching and Aggregation", 2023, IEEE Transactions on Neural Networks and Learning Systems. (CCF B, **中科院SCI一区Top 期刊**, **IF=14.255**)<span style="color:red;">**New!**</span>
