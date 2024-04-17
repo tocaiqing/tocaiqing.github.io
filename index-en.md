@@ -15,6 +15,7 @@
 **Office:** A506, Xinxi South Building, 1299 Sansha RD, Qingdao, Shandong 266400     
 
 ## News
++ <span style="color:red;">2024/04/17 One paper was accepted by IJCAI</span>.
 + <span style="color:red;">2024/03/12 One paper was accepted by TCSVT</span>.
 + <span style="color:red;">2024/03/12 One paper was accepted by PR</span>.
 + <span style="color:red;">2023/12/09 Qing Cai won the title of TaiShan Scholars Youth Expert Program of Shandong Province
@@ -41,6 +42,7 @@
 ## Selected Publications (<a href="https://scholar.google.com/citations?user=0dnTKrcAAAAJ&hl=en">Google Scholar</a>) 
 \# Supervised students, \* Corresponding author
 + **Qing Cai**, Mu Li, Dongwei Ren, Jun Lyu, Haiyong Zheng*, Herbert Yang and Junyu Dong\*. "Spherical Pseudo-cylindrical Representation for Omnidirectional Image Super-Resolution ", 2024, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A**)<span style="color:red;">**New!**</span>
++ Tiange Zhang, **Qing Cai***, Feng Gao, Lin Qi, Junyu Dong*. "Exploring Cross-Domain Few-Shot Classification via Frequency-Aware Prompting", 2024, International Joint Conference on Artificial Intelligence (IJCAI). (**CCF A**)<span style="color:red;">**New!**</span>
 + Xianglong Wang, Eric Rigall, Xifeng An, Zhihao Li, **Qing Cai***, Shu Zhang, and Junyu Dong. "A New Benchmark and Low Computational Cost Localization Method for Cephalometric Analysis", 2024, Pattern Recognition. (CCF B, **JCRQ1**, IF=8.4)
 + Fan Zhang, Huiying Liu, Jinjiang Wang, Jun Lyu, **Qing Cai***, Huafeng Li, Junyu Dong, and David Zhang. "Cross co-teaching for semi-supervised medical image segmentation", 2024, Pattern Recognition. (CCF B, **JCRQ1**, IF=8.518)
 + Shao Xiang Guo, **Qing Cai**\*, Lin Qi and Junyu Dong\*. "CLIP-Hand3D: Exploiting 3D Hand Pose Estimation via Context-Aware Prompting", 2023, ACM International Conference on Multimedia (ACM MM). (**CCF A**)<span style="color:red;">**New!**</span> 
