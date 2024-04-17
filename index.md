@@ -54,7 +54,7 @@
 + 期刊审稿人：IEEE Transactions on Image Processing, IEEE Transactions on Cybernetics, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Industrial Electronics, Pattern Recognition, Applied Mathematical Modelling.    
 
 ## 科研项目
-[2024-2026] 山东省泰山学者青年专家项目,“婴幼儿脑磁共振图像分割及其在自闭症诊断应用的关键技术研究”,75万, **主持人**<span style="color:red;">**New!**</span>   
+[2024-2026]  **山东省泰山学者青年专家项目**, “婴幼儿脑磁共振图像分割及其在自闭症诊断应用的关键技术研究”,75万, **主持人**<span style="color:red;">**New!**</span>   
 [2022-2024] **国家自然科学基金青年项目**, “基于边界注意力水平集的医学图像分割关键技术研究”,30万, **主持人** <span style="color:red;">**New!**</span>   
 [2022-2025] **中国海洋大学青年英才工程科研启动经费**, “面向磁共振图像处理的关键技术研究”,30万, **主持人** <span style="color:red;">**New!**</span>   
 [2021-2023] 山东省自然科学基金青年项目,“基于深度学习与水平集的左心室磁共振图像分割算法研究”,14万, **主持人**  
