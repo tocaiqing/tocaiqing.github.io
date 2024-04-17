@@ -18,9 +18,10 @@
 **教授课程：** 计算机系统基础(本科生)，机器学习(研究生) 
 
 ## 新闻
++ <span style="color:red;">2024/01/01 祝贺课题组蔡青荣获山东省泰山学者青年专家荣誉称号！
++ <span style="color:red;">2024/04/17 论文“Exploring Cross-Domain Few-Shot Classification via Frequency-Aware Prompting”被CCF A类会议IJCAI接收！
 +  <span style="color:red;">2024/04/02 祝贺课题组王祥龙博士的论文“A New Benchmark and Low Computational Cost Localization Method for Cephalometric Analysis”被中科院一区Top期刊TCSVT接收！
 +  <span style="color:red;">2024/03/12 祝贺课题组张帆博士的论文“Cross co-teaching for semi-supervised medical image segmentation”被中科院一区Top期刊PR接收！
-+ <span style="color:red;">2024/01/01 祝贺课题组蔡青荣获山东省泰山学者青年专家荣誉称号！
 + <span style="color:red;">2023/12/09 论文“Spherical Pseudo-cylindrical Representation for Omnidirectional Image Super-Resolution”被CCF A类会议AAAI接收！
 +  <span style="color:red;">2023/11/26 祝贺课题组张帆博士的论文“DSLSM: Dual-kernel-induced Statistic Level Set Model for Image Segmentation”被中科院一区Top期刊ESWA接收！
 + <span style="color:red;">2023/07/26 祝贺课题组郭少翔博士的论文“CLIP-Hand3D: Exploiting 3D Hand Pose Estimation via Context-Aware Prompting”被CCF A类会议ACM MM接收！
@@ -70,6 +71,7 @@
 ## 代表论文（近5年）（<a href="https://scholar.google.com/citations?user=0dnTKrcAAAAJ&hl=en">谷歌学术</a>） 
 \* 通讯作者
 + **Qing Cai**, Mu Li, Dongwei Ren, Jun Lyu, Haiyong Zheng*, Herbert Yang and Junyu Dong\*. "Spherical Pseudo-cylindrical Representation for Omnidirectional Image Super-Resolution ", 2024, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A 类会议**)<span style="color:red;">**New!**</span>
++ Tiange Zhang, **Qing Cai**, Feng Gao, Lin Qi, Junyu Dong*. "Exploring Cross-Domain Few-Shot Classification via Frequency-Aware Prompting", 2024, International Joint Conference on Artificial Intelligence (IJCAI). (**CCF A 类会议**)<span style="color:red;">**New!**</span>
 + Xianglong Wang, Eric Rigall, Xifeng An, Zhihao Li, **Qing Cai***, Shu Zhang, and Junyu Dong. "A New Benchmark and Low Computational Cost Localization Method for Cephalometric Analysis", 2024, Pattern Recognition. (CCF B, **中科院SCI一区Top 期刊**, IF=8.4)
 + Fan Zhang, Huiying Liu, Jinjiang Wang, Jun Lyu, **Qing Cai***, Huafeng Li, Junyu Dong, and David Zhang. "Cross co-teaching for semi-supervised medical image segmentation", 2024, Pattern Recognition. (CCF B, **中科院SCI一区Top 期刊**, IF=8.518)
 + Shao Xiang Guo, **Qing Cai**\*, Lin Qi and Junyu Dong\*. "CLIP-Hand3D: Exploiting 3D Hand Pose Estimation via Context-Aware Prompting", 2023, ACM International Conference on Multimedia (ACM MM). (**CCF A 类会议**)<span style="color:red;">**New!**</span> 
