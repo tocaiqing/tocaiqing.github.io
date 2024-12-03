@@ -3,7 +3,7 @@
 
 <p style="width:970px;">
     <img src="/cai.jpg" align="right" width="150" hspace="5" vspace="5">
-    中国海洋大学信息科学与工程学部<a href="http://it.ouc.edu.cn/cq/list.htm">计算机科学与技术学院</a>副教授、硕士生导师，先后荣获山东省泰山学者-青年专家、山东省人工智能科学技术奖-优秀青年奖、中国海洋大学“青年英才工程”等。博士毕业于西北工业大学自动化学院，导师为<a href="https://teacher.nwpu.edu.cn/liuhuiying">刘慧英教授</a>，曾于2017年10月-2018年4月赴加拿大阿尔伯塔大学进行博士联合培养，导师为<a href="http://webdocs.cs.ualberta.ca/~yang/index.html">Prof. Yee-Hong Yang</a>，2018年5月-2018年12月在西安交通大学进行访问，合作导师为<a href="https://gr.xjtu.edu.cn/zh/web/jinjun/home">王进军教授</a>, 2020年10月-2022年9月在香港中文大学（深圳）和中国科学技术大学进行博后工作，合作导师为<a href="https://scholar.google.com/citations?user=IOagLnEAAAAJ&hl=zh-CN">Prof. David Zhang 张大鹏教授</a>和<a href="https://scholar.google.com/citations?user=5bInRDEAAAAJ&hl=zh-CN">吴枫教授</a>，2022年加入中国海洋大学<a href="http://it.ouc.edu.cn/djy/main.htm">董军宇教授</a>团队。主要研究方向为<u>计算机视觉</u>、<u>深度学习</u>、<u>机器学习</u>、<u>水平集</u>、<u>图像分割</u>、<u>目标跟踪</u>、<u>图像恢复</u>、<u>图像超分辨</u>、<u>图像去噪</u>、<u>医学图像处理</u>以及<u>水下图像处理等</u>。 相关工作已发表在国内外重要会议、学术期刊: IJCAI、AAAI、ACM MM、IEEE TIP、IEEE TNNLS、IEEE TCSVT、PR、INS、ESWA等。主持国家自然科学基金、山东省泰山学者-青年专家项目、山东省自然科学基金、中国博士后科学基金、中国海洋大学青年英才工程项目等6项，参与多项国家自然科学基金、深圳市基础研究专项（自然科学基金）重点项目。
+    中国海洋大学信息科学与工程学部<a href="http://it.ouc.edu.cn/cq/list.htm">计算机科学与技术学院</a>副教授、博士生导师，先后荣获山东省泰山学者-青年专家、山东省优青、山东省人工智能科学技术奖-优秀青年奖、中国海洋大学“青年英才工程”等。博士毕业于西北工业大学自动化学院，导师为<a href="https://teacher.nwpu.edu.cn/liuhuiying">刘慧英教授</a>，曾于2017年10月-2018年4月赴加拿大阿尔伯塔大学进行博士联合培养，导师为<a href="http://webdocs.cs.ualberta.ca/~yang/index.html">Prof. Yee-Hong Yang</a>，2018年5月-2018年12月在西安交通大学进行访问，合作导师为<a href="https://gr.xjtu.edu.cn/zh/web/jinjun/home">王进军教授</a>, 2020年10月-2022年9月在香港中文大学（深圳）和中国科学技术大学进行博后工作，合作导师为<a href="https://scholar.google.com/citations?user=IOagLnEAAAAJ&hl=zh-CN">Prof. David Zhang 张大鹏教授</a>和<a href="https://scholar.google.com/citations?user=5bInRDEAAAAJ&hl=zh-CN">吴枫教授</a>，2022年加入中国海洋大学<a href="http://it.ouc.edu.cn/djy/main.htm">董军宇教授</a>团队。主要研究方向为<u>计算机视觉</u>、<u>深度学习</u>、<u>机器学习</u>、<u>水平集</u>、<u>图像分割</u>、<u>目标跟踪</u>、<u>图像恢复</u>、<u>图像超分辨</u>、<u>图像去噪</u>、<u>医学图像处理</u>以及<u>水下图像处理等</u>。 相关工作已发表在国内外重要会议、学术期刊: IJCAI、AAAI、ACM MM、IEEE TIP、IEEE TNNLS、IEEE TCSVT、PR、INS、ESWA等。主持国家自然科学基金、山东省泰山学者-青年专家项目、山东省自然科学基金、中国博士后科学基金、中国海洋大学青年英才工程项目等6项，参与多项国家自然科学基金、深圳市基础研究专项（自然科学基金）重点项目。
 </p>  
 ———————————————————————————————————————————————
 
@@ -18,6 +18,7 @@
 **教授课程：** 计算机系统基础(本科生)，机器学习(研究生) 
 
 ## 新闻
++ <span style="color:red;">2024/09/18 祝贺课题组蔡青获批山东省优青项目成功获批！</span>
 + <span style="color:red;">2024/08/23 祝贺课题组蔡青获批国家自然科学基金面上项目成功获批！</span>
 + <span style="color:red;">2024/01/01 祝贺课题组蔡青荣获山东省泰山学者青年专家荣誉称号！
 + <span style="color:red;">2024/04/17 祝贺课题组张天戈博士的论文“Exploring Cross-Domain Few-Shot Classification via Frequency-Aware Prompting”被CCF A类会议IJCAI接收！
@@ -74,6 +75,7 @@
 \* 通讯作者
 + **Qing Cai**, Mu Li, Dongwei Ren, Jun Lyu, Haiyong Zheng*, Herbert Yang and Junyu Dong\*. "Spherical Pseudo-cylindrical Representation for Omnidirectional Image Super-Resolution ", 2024, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A 类会议**)<span style="color:red;">**New!**</span>
 + Tiange Zhang, **Qing Cai***, Feng Gao, Lin Qi, Junyu Dong\*. "Exploring Cross-Domain Few-Shot Classification via Frequency-Aware Prompting", 2024, International Joint Conference on Artificial Intelligence (IJCAI). (**CCF A 类会议**)<span style="color:red;">**New!**</span>
++ Fan Zhang, Huiying Liu, **Qing Cai***, Chun-Mei Feng, Binglu Wang, Shanshan Wang, Junyu Dong, Zhang David "Federated Cross-Incremental Self-Supervised Learning for Medical Image Segmentation", 2024, IEEE Transactions on Neural Networks and Learning Systems. (CCF B, **中科院SCI一区Top 期刊**, **IF=14.255**)<span style="color:red;">**New!**</span>
 + Xianglong Wang, Eric Rigall, Xifeng An, Zhihao Li, **Qing Cai***, Shu Zhang, and Junyu Dong. "A New Benchmark and Low Computational Cost Localization Method for Cephalometric Analysis", 2024, IEEE Transactions on Circuits and Systems for Video Technology. (CCF B, **中科院SCI一区Top 期刊**, IF=8.4)
 + Fan Zhang, Huiying Liu, Jinjiang Wang, Jun Lyu, **Qing Cai***, Huafeng Li, Junyu Dong, and David Zhang. "Cross co-teaching for semi-supervised medical image segmentation", 2024, Pattern Recognition. (CCF B, **中科院SCI一区Top 期刊**, IF=8.518)
 + Shao Xiang Guo, **Qing Cai**\*, Lin Qi and Junyu Dong\*. "CLIP-Hand3D: Exploiting 3D Hand Pose Estimation via Context-Aware Prompting", 2023, ACM International Conference on Multimedia (ACM MM). (**CCF A 类会议**)<span style="color:red;">**New!**</span> 
