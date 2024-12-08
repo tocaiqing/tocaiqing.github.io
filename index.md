@@ -22,12 +22,12 @@
 + <span style="color:red;">2024/08/23 祝贺课题组蔡青获批国家自然科学基金面上项目成功获批！</span>
 + <span style="color:red;">2024/01/01 祝贺课题组蔡青荣获山东省泰山学者青年专家荣誉称号！
 + <span style="color:red;">2024/08/29 祝贺课题组张帆博士的论文“Federated Cross-Incremental Self-Supervised Learning for Medical Image Segmentation”被中科院一区Top期刊TNNLS接收！
-+ <span style="color:red;">2024/04/17 祝贺课题组张天戈博士的论文“Exploring Cross-Domain Few-Shot Classification via Frequency-Aware Prompting”被CCF A类会议IJCAI接收！
++ <span style="color:red;">2024/04/17 祝贺课题组张天戈博士的论文“Exploring Cross-Domain Few-Shot Classification via Frequency-Aware Prompting”被CCF A类会议IJCAI2024接收！
 +  <span style="color:red;">2024/04/02 祝贺课题组王祥龙博士的论文“A New Benchmark and Low Computational Cost Localization Method for Cephalometric Analysis”被中科院一区Top期刊TCSVT接收！
 +  <span style="color:red;">2024/03/12 祝贺课题组张帆博士的论文“Cross co-teaching for semi-supervised medical image segmentation”被中科院一区Top期刊PR接收！
-+ <span style="color:red;">2023/12/09 论文“Spherical Pseudo-cylindrical Representation for Omnidirectional Image Super-Resolution”被CCF A类会议AAAI接收！
++ <span style="color:red;">2023/12/09 论文“Spherical Pseudo-cylindrical Representation for Omnidirectional Image Super-Resolution”被CCF A类会议AAAI2024接收！
 +  <span style="color:red;">2023/11/26 祝贺课题组张帆博士的论文“DSLSM: Dual-kernel-induced Statistic Level Set Model for Image Segmentation”被中科院一区Top期刊ESWA接收！
-+ <span style="color:red;">2023/07/26 祝贺课题组郭少翔博士的论文“CLIP-Hand3D: Exploiting 3D Hand Pose Estimation via Context-Aware Prompting”被CCF A类会议ACM MM接收！
++ <span style="color:red;">2023/07/26 祝贺课题组郭少翔博士的论文“CLIP-Hand3D: Exploiting 3D Hand Pose Estimation via Context-Aware Prompting”被CCF A类会议ACM MM2023接收！
 + <span style="color:red;">2023/05/18 论文“HIPA: Hierarchical Patch Transformer for Single Image Super Resolution”被CCF A类期刊IEEE TIP接收！</span>
 + <span style="color:red;">2023/02/24 论文“Multi-contrast MRI Super-Resolution via Transformer-empowered Multi-scale Contextual Matching and Aggregation”被期刊IEEE TNNLS接收！</span>
 + <span style="color:red;">2022/03/03 论文“TDPN: Texture and Detail-Preserving Network for Single Image Super-Resolution”被CCF A类期刊IEEE TIP接收！</span>
