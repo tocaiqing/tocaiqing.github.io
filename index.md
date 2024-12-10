@@ -21,18 +21,21 @@
 + <span style="color:red;">2024/09/18 祝贺课题组蔡青获批山东省优青项目成功获批！</span>
 + <span style="color:red;">2024/08/23 祝贺课题组蔡青获批国家自然科学基金面上项目成功获批！</span>
 + <span style="color:red;">2024/01/01 祝贺课题组蔡青荣获山东省泰山学者青年专家荣誉称号！
++ <span style="color:red;">2024/12/10 祝贺课题组鄢柯硕士的论文“SGTC: Semantic-Guided Triplet Co-training for Sparsely Annotated Semi-Supervised Medical Image Segmentation”被CCF A类会议AAAI2025接收！
++ <span style="color:red;">2024/12/10 祝贺课题组本科生康家辉同学的论文“C2PD: Continuity-Constrained Pixelwise Deformation for Guided Depth Super-Resolution”被CCF A类会议AAAI2025接收！
++ <span style="color:red;">2024/12/10 祝贺课题组论文“ BSAFusion: A Bidirectional Stepwise Feature Alignment Network for Unaligned Medical Image Fusion”被CCF A类会议AAAI2025接收！
 + <span style="color:red;">2024/08/29 祝贺课题组张帆博士的论文“Federated Cross-Incremental Self-Supervised Learning for Medical Image Segmentation”被中科院一区Top期刊TNNLS接收！
 + <span style="color:red;">2024/04/17 祝贺课题组张天戈博士的论文“Exploring Cross-Domain Few-Shot Classification via Frequency-Aware Prompting”被CCF A类会议IJCAI2024接收！
 +  <span style="color:red;">2024/04/02 祝贺课题组王祥龙博士的论文“A New Benchmark and Low Computational Cost Localization Method for Cephalometric Analysis”被中科院一区Top期刊TCSVT接收！
 +  <span style="color:red;">2024/03/12 祝贺课题组张帆博士的论文“Cross co-teaching for semi-supervised medical image segmentation”被中科院一区Top期刊PR接收！
-+ <span style="color:red;">2023/12/09 论文“Spherical Pseudo-cylindrical Representation for Omnidirectional Image Super-Resolution”被CCF A类会议AAAI2024接收！
++ <span style="color:red;">2023/12/09 祝贺课题组论文“Spherical Pseudo-cylindrical Representation for Omnidirectional Image Super-Resolution”被CCF A类会议AAAI2024接收！
 +  <span style="color:red;">2023/11/26 祝贺课题组张帆博士的论文“DSLSM: Dual-kernel-induced Statistic Level Set Model for Image Segmentation”被中科院一区Top期刊ESWA接收！
 + <span style="color:red;">2023/07/26 祝贺课题组郭少翔博士的论文“CLIP-Hand3D: Exploiting 3D Hand Pose Estimation via Context-Aware Prompting”被CCF A类会议ACM MM2023接收！
-+ <span style="color:red;">2023/05/18 论文“HIPA: Hierarchical Patch Transformer for Single Image Super Resolution”被CCF A类期刊IEEE TIP接收！</span>
-+ <span style="color:red;">2023/02/24 论文“Multi-contrast MRI Super-Resolution via Transformer-empowered Multi-scale Contextual Matching and Aggregation”被期刊IEEE TNNLS接收！</span>
-+ <span style="color:red;">2022/03/03 论文“TDPN: Texture and Detail-Preserving Network for Single Image Super-Resolution”被CCF A类期刊IEEE TIP接收！</span>
-+ <span style="color:red;">2021/11/24 论文“A Novel Hybrid Level Set Model for Non-Rigid Object Contour Tracking”被CCF A类期刊IEEE TIP接收！</span>
-+ <span style="color:red;">2021/11/18 论文“AVLSM: adaptive variational level set model for image segmentation in the presence of severe intensity inhomogeneity and high noise”被CCF A类期刊IEEE TIP接收！</span>
++ <span style="color:red;">2023/05/18 祝贺课题组论文“HIPA: Hierarchical Patch Transformer for Single Image Super Resolution”被CCF A类期刊IEEE TIP接收！</span>
++ <span style="color:red;">2023/02/24 祝贺课题组论文“Multi-contrast MRI Super-Resolution via Transformer-empowered Multi-scale Contextual Matching and Aggregation”被期刊IEEE TNNLS接收！</span>
++ <span style="color:red;">2022/03/03 祝贺课题组论文“TDPN: Texture and Detail-Preserving Network for Single Image Super-Resolution”被CCF A类期刊IEEE TIP接收！</span>
++ <span style="color:red;">2021/11/24 祝贺课题组论文“A Novel Hybrid Level Set Model for Non-Rigid Object Contour Tracking”被CCF A类期刊IEEE TIP接收！</span>
++ <span style="color:red;">2021/11/18 祝贺课题组论文“AVLSM: adaptive variational level set model for image segmentation in the presence of severe intensity inhomogeneity and high noise”被CCF A类期刊IEEE TIP接收！</span>
 + <span style="color:red;">2021/08/18 祝贺导师张大鹏教授获批国家自然科学基金面上项目成功获批！</span>
 + <span style="color:red;">2021/08/18 国家自然科学基金青年项目成功获批！</span>
 
@@ -74,7 +77,10 @@
 [2013-2016] 成都飞机工业有限公司项目,  “xxxxxx”, xxx万, 参与人  
 
 ## 代表论文（近5年）（<a href="https://scholar.google.com/citations?user=0dnTKrcAAAAJ&hl=en">谷歌学术</a>） 
-\* 通讯作者
+\* 通讯作者\#共同一作
++ Ke Yan#, **Qing Cai#**, Fan Zhang, Ziyan Cao, Zhi Liu. "SGTC: Semantic-Guided Triplet Co-training for Sparsely Annotated Semi-Supervised Medical Image Segmentation", 2025, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A 类会议**)<span style="color:red;">**New!**</span>
++ Huafeng Li, Dayong Su, **Qing Cai***, Yafei Zhang. "BSAFusion: A Bidirectional Stepwise Feature Alignment Network for Unaligned Medical Image Fusion", 2025, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A 类会议**)<span style="color:red;">**New!**</span>
++ Jiahui Kang, Qing Cai*, Runqing Tan, Yimei Liu, Zhi Liu. "C2PD: Continuity-Constrained Pixelwise Deformation for Guided Depth Super-Resolution", 2025, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A 类会议**)<span style="color:red;">**New!**</span>
 + **Qing Cai**, Mu Li, Dongwei Ren, Jun Lyu, Haiyong Zheng*, Herbert Yang and Junyu Dong\*. "Spherical Pseudo-cylindrical Representation for Omnidirectional Image Super-Resolution ", 2024, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A 类会议**)<span style="color:red;">**New!**</span>
 + Tiange Zhang, **Qing Cai***, Feng Gao, Lin Qi, Junyu Dong\*. "Exploring Cross-Domain Few-Shot Classification via Frequency-Aware Prompting", 2024, International Joint Conference on Artificial Intelligence (IJCAI). (**CCF A 类会议**)<span style="color:red;">**New!**</span>
 + Fan Zhang, Huiying Liu, **Qing Cai***, Chun-Mei Feng, Binglu Wang, Shanshan Wang, Junyu Dong, Zhang David "Federated Cross-Incremental Self-Supervised Learning for Medical Image Segmentation", 2024, IEEE Transactions on Neural Networks and Learning Systems. (CCF B, **中科院SCI一区Top 期刊**, **IF=14.255**)<span style="color:red;">**New!**</span>
