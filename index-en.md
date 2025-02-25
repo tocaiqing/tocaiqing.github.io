@@ -35,13 +35,9 @@
 
 ## Projects
 [2025-2028] National Science Foundation of China(NSFC), ￥510,000, **PI** <span style="color:red;">**New!**</span> 
-
 [2025-2027] Natural Science Foundation of Shandong Province, ￥500,000, **PI** <span style="color:red;">**New!**</span> 
-
 [2022-2025] Ocean University of China, ￥300,000, **PI** <span style="color:red;">**New!**</span>  
-
 [2024-2026] TaiShan Scholars Youth Expert Program of Shandong Province, ￥750,000, **PI** <span style="color:red;">**New!**</span>
-
 [2022-2024] National Science Foundation of China(NSFC), ￥300,000, **PI** <span style="color:red;">**New!**</span> 
 [2021-2023] National Natural Science Foundation of Shandong Province, ￥140,000, **PI**  
 [2023-2024] China Postdoctoral Science Foundation, ￥80,000, **PI** 
