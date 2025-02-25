@@ -41,6 +41,9 @@
 
 ## Selected Publications (<a href="https://scholar.google.com/citations?user=0dnTKrcAAAAJ&hl=en">Google Scholar</a>) 
 \# Supervised students, \* Corresponding author
++ Ke Yan#, **Qing Cai#**, Fan Zhang, Ziyan Cao, Zhi Liu. "SGTC: Semantic-Guided Triplet Co-training for Sparsely Annotated Semi-Supervised Medical Image Segmentation", 2025, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A **)<span style="color:red;">**New!**</span>
++ Huafeng Li, Dayong Su, **Qing Cai***, Yafei Zhang. "BSAFusion: A Bidirectional Stepwise Feature Alignment Network for Unaligned Medical Image Fusion", 2025, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A **)<span style="color:red;">**New!**</span>
++ Jiahui Kang, **Qing Cai***, Runqing Tan, Yimei Liu, Zhi Liu. "C2PD: Continuity-Constrained Pixelwise Deformation for Guided Depth Super-Resolution", 2025, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A **)<span style="color:red;">**New!**</span>
 + **Qing Cai**, Mu Li, Dongwei Ren, Jun Lyu, Haiyong Zheng*, Herbert Yang and Junyu Dong\*. "Spherical Pseudo-cylindrical Representation for Omnidirectional Image Super-Resolution ", 2024, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A**)<span style="color:red;">**New!**</span>
 + Tiange Zhang, **Qing Cai***, Feng Gao, Lin Qi, Junyu Dong*. "Exploring Cross-Domain Few-Shot Classification via Frequency-Aware Prompting", 2024, International Joint Conference on Artificial Intelligence (IJCAI). (**CCF A**)<span style="color:red;">**New!**</span>
 + Xianglong Wang, Eric Rigall, Xifeng An, Zhihao Li, **Qing Cai***, Shu Zhang, and Junyu Dong. "A New Benchmark and Low Computational Cost Localization Method for Cephalometric Analysis", 2024, Pattern Recognition. (CCF B, **JCRQ1**, IF=8.4)
