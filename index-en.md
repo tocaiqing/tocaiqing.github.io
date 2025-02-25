@@ -55,10 +55,9 @@
 + **Qing Cai***, Huiying Liu, Sanping Zhou, Jingfeng Sun, Jing Li. "An Adaptive-Scale Active Contour Model for Inhomogeneous Image Segmentation and Bias Feld Estimation", 2018, Pattern Recognition. (CCF B, **JCR Q1**, IF=8.518) <a href="https://www.sciencedirect.com/science/article/pii/S0031320318301729" target="_blank">[PDF]</a>
     
 ## Public Service
-+ Reviewer of National Natural Science Foundation of China
-+ Member of China Computer Federation (CCF) 
-+ Member of Chinese Association for Artificial Intelligence (CAAI)
-+ Reviewer: AAAI2023, CVPR2022, ECCV2022, ICCV2021, IEEE Transactions on Image Processing, IEEE Transactions on Cybernetics, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Industrial Electronics, Pattern Recognition, Applied Mathematical Modelling.   
++ Special Issue Orgnizor: ICCPR2023
++ Guest Editor：Artificial Intelligence and Applications (AIA)
++ Reviewer/PC Member: CVPR, ECCV, ICCV, NIPS, ICML, AAAI, International Journal of Computer Vision, IEEE Transactions on Image Processing, IEEE Transactions on Cybernetics, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Industrial Electronics, Pattern Recognition, Applied Mathematical Modelling.   
 
 [↑Top](#Top)
 
