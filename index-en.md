@@ -33,18 +33,6 @@
 + <span style="color:red;">2021/11/18 One paper was accepted by IEEE TIP</span>.
 + <span style="color:red;">2021/08/18 Two NSFC Funds were approved</span>.  
 
-## Projects
-[2025-2028] National Science Foundation of China(NSFC), ￥510,000, **PI** <span style="color:red;">**New!**</span> 
-[2025-2027] Natural Science Foundation of Shandong Province, ￥500,000, **PI** <span style="color:red;">**New!**</span> 
-[2022-2025] Ocean University of China, ￥300,000, **PI** <span style="color:red;">**New!**</span>  
-[2024-2026] TaiShan Scholars Youth Expert Program of Shandong Province, ￥750,000, **PI** <span style="color:red;">**New!**</span>
-[2022-2024] National Science Foundation of China(NSFC), ￥300,000, **PI** <span style="color:red;">**New!**</span> 
-[2021-2023] National Natural Science Foundation of Shandong Province, ￥140,000, **PI**  
-[2023-2024] China Postdoctoral Science Foundation, ￥80,000, **PI** 
-[2021-2022] China Postdoctoral Science Foundation, ￥80,000, **PI**  
-[2023-2024] Qingdao Postdoctoral Innovation Project, ￥100,000, **PI**  
-[2022-2025] National Science Foundation of China, ￥600,000, Participant  
-
 ## Selected Publications (<a href="https://scholar.google.com/citations?user=0dnTKrcAAAAJ&hl=en">Google Scholar</a>) 
 \# Supervised students, \* Corresponding author
 + Ke Yan#, **Qing Cai#**, Fan Zhang, Ziyan Cao, Zhi Liu. "SGTC: Semantic-Guided Triplet Co-training for Sparsely Annotated Semi-Supervised Medical Image Segmentation", 2025, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A **)<span style="color:red;">**New!**</span>
