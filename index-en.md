@@ -15,6 +15,10 @@
 **Office:** A506, Xinxi South Building, 1299 Sansha RD, Qingdao, Shandong 266400     
 
 ## News
++ <span style="color:red;">2024/09/18 One Natural Science Foundation of Shandong Province is approved</span>
++ <span style="color:red;">2024/08/23 One NSFC Fund was approved</span>. 
++ <span style="color:red;">2024/12/10 Three paper was accepted by AAAI</span>
++ <span style="color:red;">2024/08/29 One paper was accepted by TNNLS</span>
 + <span style="color:red;">2024/04/17 One paper was accepted by IJCAI</span>.
 + <span style="color:red;">2024/03/12 One paper was accepted by TCSVT</span>.
 + <span style="color:red;">2024/03/12 One paper was accepted by PR</span>.
@@ -30,9 +34,11 @@
 + <span style="color:red;">2021/08/18 Two NSFC Funds were approved</span>.  
 
 ## Projects
+[2025-2028] National Science Foundation of China(NSFC), ￥510,000, **PI** <span style="color:red;">**New!**</span> 
+[2025-2027] Natural Science Foundation of Shandong Province, ￥500,000, **PI** <span style="color:red;">**New!**</span> 
 [2022-2025] Ocean University of China, ￥300,000, **PI** <span style="color:red;">**New!**</span>  
-[2022-2024] National Science Foundation of China, ￥300,000, **PI** <span style="color:red;">**New!**</span> 
 [2024-2026] TaiShan Scholars Youth Expert Program of Shandong Province, ￥750,000, **PI** <span style="color:red;">**New!**</span>
+[2022-2024] National Science Foundation of China(NSFC), ￥300,000, **PI** <span style="color:red;">**New!**</span> 
 [2021-2023] National Natural Science Foundation of Shandong Province, ￥140,000, **PI**  
 [2023-2024] China Postdoctoral Science Foundation, ￥80,000, **PI** 
 [2021-2022] China Postdoctoral Science Foundation, ￥80,000, **PI**  
