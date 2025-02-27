@@ -15,6 +15,7 @@
 **Office:** A506, Xinxi South Building, 1299 Sansha RD, Qingdao, Shandong 266400     
 
 ## News
++ <span style="color:red;">2025/02/27 One paper was accepted by CVPR</span>
 + <span style="color:red;">2024/12/10 Three paper was accepted by AAAI</span>
 + <span style="color:red;">2024/09/18 One Natural Science Foundation of Shandong Province is approved</span>
 + <span style="color:red;">2024/08/23 One NSFC Fund was approved</span>. 
@@ -35,6 +36,7 @@
 
 ## Selected Publications (<a href="https://scholar.google.com/citations?user=0dnTKrcAAAAJ&hl=en">Google Scholar</a>) 
 \# Supervised students, \* Corresponding author
++ Shaoming Li#, **Qing Cai#**, Songqi Kong, Runqing Tan, Heng Tong, Shiji Qiu, Yongguo Jiang, Zhi Liu. "MESC-3D:Mining Effective Semantic Cues for 3D Reconstruction from a Single Image", 2025, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). (**CCF A **)<span style="color:red;">**New!**</span>
 + Ke Yan#, **Qing Cai#**, Fan Zhang, Ziyan Cao, Zhi Liu. "SGTC: Semantic-Guided Triplet Co-training for Sparsely Annotated Semi-Supervised Medical Image Segmentation", 2025, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A **)<span style="color:red;">**New!**</span>
 + Huafeng Li, Dayong Su, **Qing Cai***, Yafei Zhang. "BSAFusion: A Bidirectional Stepwise Feature Alignment Network for Unaligned Medical Image Fusion", 2025, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A **)<span style="color:red;">**New!**</span>
 + Jiahui Kang, **Qing Cai***, Runqing Tan, Yimei Liu, Zhi Liu. "C2PD: Continuity-Constrained Pixelwise Deformation for Guided Depth Super-Resolution", 2025, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A **)<span style="color:red;">**New!**</span>
