@@ -18,10 +18,10 @@
 **教授课程：** 计算机系统基础(本科生)，机器学习(研究生) 
 
 ## 新闻
++ <span style="color:red;">2025/02/27 祝贺课题组李绍铭硕士的论文“MESC-3D:Mining Effective Semantic Cues for 3D Reconstruction from a Single Image”被CCF A类会议CVPR2025接收！
 + <span style="color:red;">2024/09/18 祝贺课题组蔡青获批山东省优青项目成功获批！</span>
 + <span style="color:red;">2024/08/23 祝贺课题组蔡青获批国家自然科学基金面上项目成功获批！</span>
 + <span style="color:red;">2024/01/01 祝贺课题组蔡青荣获山东省泰山学者青年专家荣誉称号！
-+ <span style="color:red;">2025/02/27 祝贺课题组李绍铭硕士的论文“MESC-3D:Mining Effective Semantic Cues for 3D Reconstruction from a Single Image”被CCF A类会议CVPR2025接收！
 + <span style="color:red;">2024/12/10 祝贺课题组鄢柯硕士的论文“SGTC: Semantic-Guided Triplet Co-training for Sparsely Annotated Semi-Supervised Medical Image Segmentation”被CCF A类会议AAAI2025接收！
 + <span style="color:red;">2024/12/10 祝贺课题组本科生康家辉同学的论文“C2PD: Continuity-Constrained Pixelwise Deformation for Guided Depth Super-Resolution”被CCF A类会议AAAI2025接收！
 + <span style="color:red;">2024/12/10 祝贺课题组论文“ BSAFusion: A Bidirectional Stepwise Feature Alignment Network for Unaligned Medical Image Fusion”被CCF A类会议AAAI2025接收！
