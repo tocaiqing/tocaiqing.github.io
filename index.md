@@ -21,6 +21,7 @@
 + <span style="color:red;">2024/09/18 祝贺课题组蔡青获批山东省优青项目成功获批！</span>
 + <span style="color:red;">2024/08/23 祝贺课题组蔡青获批国家自然科学基金面上项目成功获批！</span>
 + <span style="color:red;">2024/01/01 祝贺课题组蔡青荣获山东省泰山学者青年专家荣誉称号！
++ <span style="color:red;">2025/02/27 祝贺课题组李绍铭硕士的论文“MESC-3D:Mining Effective Semantic Cues for 3D Reconstruction from a Single Image”被CCF A类会议CVPR2025接收！
 + <span style="color:red;">2024/12/10 祝贺课题组鄢柯硕士的论文“SGTC: Semantic-Guided Triplet Co-training for Sparsely Annotated Semi-Supervised Medical Image Segmentation”被CCF A类会议AAAI2025接收！
 + <span style="color:red;">2024/12/10 祝贺课题组本科生康家辉同学的论文“C2PD: Continuity-Constrained Pixelwise Deformation for Guided Depth Super-Resolution”被CCF A类会议AAAI2025接收！
 + <span style="color:red;">2024/12/10 祝贺课题组论文“ BSAFusion: A Bidirectional Stepwise Feature Alignment Network for Unaligned Medical Image Fusion”被CCF A类会议AAAI2025接收！
@@ -78,6 +79,7 @@
 
 ## 代表论文（近5年）（<a href="https://scholar.google.com/citations?user=0dnTKrcAAAAJ&hl=en">谷歌学术</a>） 
 \* 通讯作者\#共同一作
++ Shaoming Li#, **Qing Cai#**, Songqi Kong, Runqing Tan, Heng Tong, Shiji Qiu, Yongguo Jiang, Zhi Liu. "MESC-3D:Mining Effective Semantic Cues for 3D Reconstruction from a Single Image", 2025, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). (**CCF A 类会议**)<span style="color:red;">**New!**</span>
 + Ke Yan#, **Qing Cai#**, Fan Zhang, Ziyan Cao, Zhi Liu. "SGTC: Semantic-Guided Triplet Co-training for Sparsely Annotated Semi-Supervised Medical Image Segmentation", 2025, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A 类会议**)<span style="color:red;">**New!**</span>
 + Huafeng Li, Dayong Su, **Qing Cai***, Yafei Zhang. "BSAFusion: A Bidirectional Stepwise Feature Alignment Network for Unaligned Medical Image Fusion", 2025, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A 类会议**)<span style="color:red;">**New!**</span>
 + Jiahui Kang, **Qing Cai***, Runqing Tan, Yimei Liu, Zhi Liu. "C2PD: Continuity-Constrained Pixelwise Deformation for Guided Depth Super-Resolution", 2025, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A 类会议**)<span style="color:red;">**New!**</span>
