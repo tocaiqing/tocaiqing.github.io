@@ -79,40 +79,6 @@
 
 ## 代表论文（近5年）（<a href="https://scholar.google.com/citations?user=0dnTKrcAAAAJ&hl=en">谷歌学术</a>） 
 \* 通讯作者\#共同一作
-
-</tbody></table>
-	  
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-            <tr>
-            <td style="padding:20px;width:100%;vertical-align:middle">
-              <heading>Selected Publications</heading>
-			  <p></p>
-            </td>
-          </tr>
-        </tbody></table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-
-
-<tr>
-              <td style="padding:20px;width:30%;max-width:30%" align="center">
-                  <img style="width:100%;max-width:100%" src='MLLMs.jpg' alt="dise">
-              </td>
-              <td width="75%" valign="center">
-                  <papertitle>Analyzing and Boosting the Power of Fine-Grained Visual Recognition for Multi-modal Large Language Models</papertitle>
-                  <br>
-                  Hulingxiao He, Geng Li, Zijun Geng, <strong>Jinglin Xu</strong>, Yuxin Peng*
-                  <br>
-                  <em>International Conference on Learning Representations (<strong>ICLR</strong>)</em>, 2025
-                  <br>
-<!--                   <a href="https://finediving.ivg-research.xyz/">[Project Page]</a> -->
-                  <a href="https://github.com/PKU-ICST-MIPL/Finedefics_ICLR2025">[Github]</a>
-                  <a href="https://arxiv.org/abs/2501.15140">[Paper]</a>
-<!--                   <a href="data/ProDiff.txt">[bibtex]</a> -->
-                  <a href="http://39.108.48.32/mipl/news/news.php?id=20250123">[中文解读]</a>
-                  <br>
-              </td>
-          </tr>
-
 + Shaoming Li#, **Qing Cai#**, Songqi Kong, Runqing Tan, Heng Tong, Shiji Qiu, Yongguo Jiang, Zhi Liu. "MESC-3D:Mining Effective Semantic Cues for 3D Reconstruction from a Single Image", 2025, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). (**CCF A 类会议**)<span style="color:red;">**New!**</span>
 + Ke Yan#, **Qing Cai#**, Fan Zhang, Ziyan Cao, Zhi Liu. "SGTC: Semantic-Guided Triplet Co-training for Sparsely Annotated Semi-Supervised Medical Image Segmentation", 2025, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A 类会议**)<span style="color:red;">**New!**</span>
 + Huafeng Li, Dayong Su, **Qing Cai***, Yafei Zhang. "BSAFusion: A Bidirectional Stepwise Feature Alignment Network for Unaligned Medical Image Fusion", 2025, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A 类会议**)<span style="color:red;">**New!**</span>
