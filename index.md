@@ -80,6 +80,19 @@
 ## 代表论文（近5年）（<a href="https://scholar.google.com/citations?user=0dnTKrcAAAAJ&hl=en">谷歌学术</a>） 
 \* 通讯作者\#共同一作
 
+</tbody></table>
+	  
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+            <td style="padding:20px;width:100%;vertical-align:middle">
+              <heading>Selected Publications</heading>
+			  <p></p>
+            </td>
+          </tr>
+        </tbody></table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+
 <tr>
               <td style="padding:20px;width:30%;max-width:30%" align="center">
                   <img style="width:100%;max-width:100%" src='MLLMs.jpg' alt="dise">
