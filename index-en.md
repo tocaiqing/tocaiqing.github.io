@@ -16,8 +16,8 @@
 
 ## News
 + <span style="color:red;">2025/11/08 One paper was accepted by AAAI</span>
-+ <span style="color:red;">2025/09/12 One paper was accepted by AAAI</span>
-+ <span style="color:red;">2025/02/27 One paper was accepted by CVPR</span>
++ <span style="color:red;">2025/09/12 One paper was accepted by IEEE TBE</span>
++ <span style="color:red;">2025/06/15 One paper was accepted by Information Fusion</span>
 + <span style="color:red;">2025/02/27 One paper was accepted by CVPR</span>
 + <span style="color:red;">2024/12/10 Three paper was accepted by AAAI</span>
 + <span style="color:red;">2024/09/18 One Natural Science Foundation of Shandong Province is approved</span>
