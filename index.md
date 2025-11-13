@@ -18,6 +18,9 @@
 **教授课程：** 计算机系统基础(本科生)，机器学习(研究生) 
 
 ## 新闻
++ <span style="color:red;">2025/11/08 祝贺课题组论文“SEMC: Structure-Enhanced Mixture-of-Experts Contrastive Learning for Ultrasound Standard Plane Recognition”被CCF A类会议AAAI2026接收！
++ <span style="color:red;">2025/09/12 祝贺课题组张文真博士的论文“Annular Prior Prompt Learning for Medical Images Segmentation”被SCI期刊IEEE Transactions on Biomedical Engineering接收！
++ <span style="color:red;">2025/06/15 祝贺课题组胡喜凤博士的论文“Expert Knowledge-Guided Multi-granularity Multi-scale Fusion for Weakly-Supervised Histological Segmentation”被中科院一区Top期刊图像融合领域顶刊Information Fusion接收！
 + <span style="color:red;">2025/02/27 祝贺课题组李绍铭硕士的论文“MESC-3D:Mining Effective Semantic Cues for 3D Reconstruction from a Single Image”被CCF A类会议CVPR2025接收！
 + <span style="color:red;">2024/09/18 祝贺课题组蔡青获批山东省优青项目成功获批！</span>
 + <span style="color:red;">2024/08/23 祝贺课题组蔡青获批国家自然科学基金面上项目成功获批！</span>
