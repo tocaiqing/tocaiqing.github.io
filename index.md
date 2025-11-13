@@ -83,7 +83,7 @@
 ## 代表论文（近5年）（<a href="https://scholar.google.com/citations?user=0dnTKrcAAAAJ&hl=en">谷歌学术</a>） 
 \* 通讯作者\#共同一作
 + **Qing Cai**, Guihao Yan, Fan Zhang, Cheng Zhang, Zhi Liu. "SEMC: Structure-Enhanced Mixture-of-Experts Contrastive Learning for Ultrasound Standard Plane Recognition", 2026, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A 类会议**)<span style="color:red;">**New!**</span>
-+ Wenzhen Zhang, Yankun Cao, Xifeng Hu, Guanjie Sun, Yuezhong Zhang, Yujun Li, **Qing Cai***, Zhi Liu. "Annular Prior Prompt Learning for Medical Images Segmentation", 2025, IEEE Transactions on Biomedical Engineering. <span style="color:red;">**New!**</span>
++ Wenzhen Zhang, Yankun Cao, Xifeng Hu, Guanjie Sun, Yuezhong Zhang, Yujun Li, **Qing Cai***, Zhi Liu. "Annular Prior Prompt Learning for Medical Images Segmentation", 2025, IEEE Transactions on Biomedical Engineering.
 + Xifeng Hu, Yankun Cao, Shanshan Hu, Weifeng, Wang, Chandra Mukhopadhyay Subhas, Yu Liu, Huafeng Li, Yujun Li, **Qing Cai***, Zhi Liu. "Expert Knowledge-Guided Multi-granularity Multi-scale Fusion for Weakly-Supervised Histological Segmentation", 2025, Information Fusion.(**中科院SCI一区Top 期刊**, **IF=15.5**)
 + Shaoming Li#, **Qing Cai#**, Songqi Kong, Runqing Tan, Heng Tong, Shiji Qiu, Yongguo Jiang, Zhi Liu. "MESC-3D:Mining Effective Semantic Cues for 3D Reconstruction from a Single Image", 2025, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). (**CCF A 类会议**)
 + Ke Yan#, **Qing Cai#**, Fan Zhang, Ziyan Cao, Zhi Liu. "SGTC: Semantic-Guided Triplet Co-training for Sparsely Annotated Semi-Supervised Medical Image Segmentation", 2025, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A 类会议**)
