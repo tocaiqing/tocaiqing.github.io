@@ -15,7 +15,7 @@
 **Office:** A506, Xinxi South Building, 1299 Sansha RD, Qingdao, Shandong 266400     
 
 ## News
-+ <span style="color:red;">2025/11/08 One paper was accepted by AAAI</span>
++ <span style="color:red;">2025/11/08 One Oral paper was accepted by AAAI</span>
 + <span style="color:red;">2025/09/12 One paper was accepted by IEEE TBE</span>
 + <span style="color:red;">2025/06/15 One paper was accepted by Information Fusion</span>
 + <span style="color:red;">2025/02/27 One paper was accepted by CVPR</span>
@@ -39,7 +39,7 @@
 
 ## Selected Publications (<a href="https://scholar.google.com/citations?user=0dnTKrcAAAAJ&hl=en">Google Scholar</a>) 
 \# Supervised students, \* Corresponding author
-+ **Qing Cai**, Guihao Yan, Fan Zhang, Cheng Zhang, Zhi Liu. "SEMC: Structure-Enhanced Mixture-of-Experts Contrastive Learning for Ultrasound Standard Plane Recognition", 2026, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A **)<span style="color:red;">**New!**</span>
++ **Qing Cai**, Guihao Yan, Fan Zhang, Cheng Zhang, Zhi Liu. "SEMC: Structure-Enhanced Mixture-of-Experts Contrastive Learning for Ultrasound Standard Plane Recognition", 2026, AAAI Conference on Artificial Intelligence (AAAI). (**CCF A Oral**)<span style="color:red;">**New!**</span>
 + Wenzhen Zhang, Yankun Cao, Xifeng Hu, Guanjie Sun, Yuezhong Zhang, Yujun Li, **Qing Cai***, Zhi Liu. "Annular Prior Prompt Learning for Medical Images Segmentation", 2025, IEEE Transactions on Biomedical Engineering(**JCR Q2**).
 + Xifeng Hu, Yankun Cao, Shanshan Hu, Weifeng, Wang, Chandra Mukhopadhyay Subhas, Yu Liu, Huafeng Li, Yujun Li, **Qing Cai***, Zhi Liu. "Expert Knowledge-Guided Multi-granularity Multi-scale Fusion for Weakly-Supervised Histological Segmentation", 2025, Information Fusion.(**JCR Q1**, **IF=15.5**)
 + Shaoming Li#, **Qing Cai#**, Songqi Kong, Runqing Tan, Heng Tong, Shiji Qiu, Yongguo Jiang, Zhi Liu. "MESC-3D:Mining Effective Semantic Cues for 3D Reconstruction from a Single Image", 2025, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). (**CCF A **)<span style="color:red;">**New!**</span>
