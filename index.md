@@ -61,7 +61,7 @@
 + 国家自然科学基金通讯评审专家
 + 中国计算机学会(CCF)高级会员
 + 中国人工智能学会(CAAI)会员  
-+ 副主编：IEEE TIP
++ 副主编：IEEE TIP、Journal for Radiology Case Reports
 + 会议审稿人：ICLR、AAAI、 CVPR、 ECCV、 ICCV
 + 期刊审稿人：IEEE Transactions on Image Processing, IEEE Transactions on Cybernetics, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Industrial Electronics, Pattern Recognition, Applied Mathematical Modelling.    
 
