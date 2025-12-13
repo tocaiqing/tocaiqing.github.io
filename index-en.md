@@ -15,6 +15,7 @@
 **Office:** A506, Xinxi South Building, 1299 Sansha RD, Qingdao, Shandong 266400     
 
 ## News
++ <span style="color:red;">2025/12/12 Team leader elected as Associate Editor of IEEE TIP </span>
 + <span style="color:red;">2025/11/08 One Oral paper was accepted by AAAI</span>
 + <span style="color:red;">2025/09/12 One paper was accepted by IEEE TBE</span>
 + <span style="color:red;">2025/06/15 One paper was accepted by Information Fusion</span>
