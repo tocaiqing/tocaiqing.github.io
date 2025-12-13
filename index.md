@@ -19,6 +19,7 @@
 
 ## 新闻
 + <span style="color:red;">2025/11/21 祝贺导师吴枫教授当选2025中国工程院院士！
++ <span style="color:red;">2025/12/12 祝贺课题组负责人蔡青当选CCF A类期刊IEEE TIP副主编！
 + <span style="color:red;">2025/11/08 祝贺课题组论文“SEMC: Structure-Enhanced Mixture-of-Experts Contrastive Learning for Ultrasound Standard Plane Recognition”被CCF A类会议AAAI2026接收！
 + <span style="color:red;">2025/09/12 祝贺课题组张文真博士的论文“Annular Prior Prompt Learning for Medical Images Segmentation”被SCI期刊IEEE Transactions on Biomedical Engineering接收！
 + <span style="color:red;">2025/06/15 祝贺课题组胡喜凤博士的论文“Expert Knowledge-Guided Multi-granularity Multi-scale Fusion for Weakly-Supervised Histological Segmentation”被中科院一区Top期刊图像融合领域顶刊Information Fusion接收！
@@ -60,7 +61,7 @@
 + 国家自然科学基金通讯评审专家
 + 中国计算机学会(CCF)高级会员
 + 中国人工智能学会(CAAI)会员  
-+ CCF YOCSEF青岛委员
++ 副主编：IEEE TIP
 + 会议审稿人：ICLR、AAAI、 CVPR、 ECCV、 ICCV
 + 期刊审稿人：IEEE Transactions on Image Processing, IEEE Transactions on Cybernetics, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Industrial Electronics, Pattern Recognition, Applied Mathematical Modelling.    
 
